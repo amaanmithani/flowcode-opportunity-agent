@@ -1,0 +1,23 @@
+{
+  "resolution": {
+    "official_name": "e.l.f. Beauty, Inc.",
+    "domain": "elfbeauty.com",
+    "newsroom_url": "https://investor.elfbeauty.com/stock-and-financial/press-releases",
+    "parent_company": null,
+    "category": "beauty and personal care (cosmetics and skincare)",
+    "sub_brands": [
+      "e.l.f. Cosmetics",
+      "e.l.f. SKIN",
+      "rhode",
+      "Naturium",
+      "Well People"
+    ],
+    "one_liner": "Oakland, California-based, publicly traded (NYSE: ELF) company that makes luxurious beauty accessible for all, selling affordable cosmetics and skincare through retailers such as Target, Walmart, Ulta Beauty, Sephora and Amazon, and online."
+  },
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  }
+}

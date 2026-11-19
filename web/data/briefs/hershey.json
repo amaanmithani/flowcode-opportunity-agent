@@ -1,0 +1,1490 @@
+{
+  "slug": "hershey",
+  "input": "Hershey",
+  "run_id": "20261118-025406-778594",
+  "generated_at": "2026-11-18T02:54:46",
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  },
+  "resolution": {
+    "official_name": "The Hershey Company",
+    "domain": "thehersheycompany.com",
+    "newsroom_url": "https://www.thehersheycompany.com/en_us/home/newsroom.html",
+    "parent_company": null,
+    "category": "confectionery and snacks / CPG",
+    "sub_brands": [
+      "Hershey's",
+      "Reese's",
+      "Kit Kat",
+      "Twizzlers",
+      "Jolly Rancher",
+      "Ice Breakers",
+      "Brookside",
+      "Pirate's Booty",
+      "SkinnyPop",
+      "Dot's Pretzels"
+    ],
+    "one_liner": "A U.S.-based maker of chocolate, candy, mints and snacks, best known for Hershey's and Reese's."
+  },
+  "stats": {
+    "signals_found": 17,
+    "signals_verified": 13,
+    "signals_dropped": 4,
+    "drop_reasons": {
+      "fetch_failed": 3,
+      "quote_not_found": 1
+    },
+    "new_signals": 0,
+    "carried_over": 7,
+    "carried_over_verified": 6,
+    "opportunities": 5,
+    "per_channel": {
+      "tv_broadcast": {
+        "found": 1,
+        "verified": 1
+      },
+      "social_digital": {
+        "found": 4,
+        "verified": 1
+      },
+      "email_loyalty": {
+        "found": 0,
+        "verified": 0
+      },
+      "events": {
+        "found": 3,
+        "verified": 3
+      },
+      "packaging": {
+        "found": 3,
+        "verified": 3
+      },
+      "retail": {
+        "found": 3,
+        "verified": 2
+      },
+      "company_wide": {
+        "found": 3,
+        "verified": 3
+      }
+    },
+    "cost_usd": 0.1425,
+    "tokens_in": 12732,
+    "tokens_out": 4136,
+    "cache_read_tokens": 0,
+    "web_searches": 0,
+    "web_fetches": 0,
+    "llm_calls": 1,
+    "elapsed_s": 39.8,
+    "reused_stages": [
+      "resolve",
+      "research",
+      "extract",
+      "verify"
+    ],
+    "run_cost_usd": 0.1425,
+    "total_cost_usd": 1.1086,
+    "total_web_searches": 18,
+    "stage_costs": {
+      "rank": {
+        "cost_usd": 0.1425,
+        "searches": 0,
+        "fetches": 0
+      },
+      "resolve": {
+        "cost_usd": 0.0619,
+        "searches": 1,
+        "fetches": 0
+      },
+      "research": {
+        "cost_usd": 0.8688,
+        "searches": 17,
+        "fetches": 13
+      },
+      "extract": {
+        "cost_usd": 0.0354,
+        "searches": 0,
+        "fetches": 0
+      }
+    }
+  },
+  "models": {
+    "resolve": "claude-sonnet-5-5",
+    "sweep": "claude-sonnet-5-5",
+    "research": "claude-sonnet-5-5",
+    "extract": "claude-sonnet-5-5",
+    "rank": "claude-opus-5-5"
+  },
+  "opportunities": [
+    {
+      "title": "Grinch and Kisses holiday packs, 2027",
+      "what_is_happening": "Hershey's 2026 holiday line includes co-branded Grinch packaging, a Grinch bar 6-pack, and a limited-edition Kisses gift-wrapping foil kit sold online.",
+      "why_flowcode": "Licensed holiday packs reach national shoppers but capture no first-party data from the pack itself.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "love_corn",
+      "signal_ids": [
+        "6821134800",
+        "0532e45144",
+        "8dbbd87438"
+      ],
+      "confidence": 5,
+      "confidence_why": "Brand press release, three signals; close packaging and snack match",
+      "size": 5,
+      "size_why": "National holiday packaging on the flagship Hershey's brand",
+      "timing": 3,
+      "timing_why": "2026 packs already printed; pitch the 2027 holiday run",
+      "suggested_play": "Flowcode on Grinch 6-pack and foil kit opens a holiday FlowHub: gifting ideas, Grinch sweepstakes, shop.hersheys.com link. FlowID captures each scanner and syncs to CRM.",
+      "contact_roles": [
+        "Brand Manager, Seasonal",
+        "Packaging & Design lead",
+        "CRM / Loyalty lead"
+      ],
+      "first_step": "Ask the seasonal brand manager when 2027 holiday packaging artwork locks.",
+      "score": 60,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "love_corn",
+        "brand": "LOVE CORN",
+        "url": "https://www.flowcode.com/case-study/love-corn",
+        "channel": "packaging",
+        "what_they_did": "Flowcodes on snack packaging led to a 'Snap, Scan, Win' giveaway, CRM sign-up and online purchase.",
+        "metrics": [
+          "62% CRM conversion rate through packaging",
+          "27k new customers captured",
+          "43,000 total scans"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "packaging"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 1,
+      "signals": [
+        {
+          "claim": "Hershey's 2026 holiday line includes co-branded Dr. Seuss Grinch packaging, including a Grinch milk chocolate bar 6-pack.",
+          "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+          "quote": "Creamy Hershey's milk chocolate bars feature festive Grinch packaging in a giftable 6-pack.",
+          "published_date": "2026-11-05",
+          "channel": "packaging",
+          "touchpoint": "Grinch holiday packaging",
+          "source_type": "press_wire",
+          "uses_qr_or_links": false,
+          "id": "6821134800",
+          "url_hash": "448022787168",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-05",
+          "effective_date": "2026-11-05",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": true
+        },
+        {
+          "claim": "Hershey's 2026 holiday lineup includes limited-edition Grinch-themed packaging and a limited-edition Hershey's Kisses gift-wrapping foil kit, sold online at shop.hersheys.com/holiday on Cyber Monday, Nov. 30.",
+          "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+          "quote": "The kit will be available in three colorways\u2014silver, red and green\u2014as well as a fourth, custom design inspired by Hershey's Kisses.",
+          "published_date": "2026-11-05",
+          "channel": "packaging",
+          "touchpoint": "holiday packaging and gift-wrapping foil kit",
+          "source_type": "press_wire",
+          "uses_qr_or_links": true,
+          "id": "0532e45144",
+          "url_hash": "448022787168",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-05",
+          "effective_date": "2026-11-05",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        },
+        {
+          "claim": "Hershey's Kisses is launching a limited-edition holiday gift-wrapping foil kit based on its Kisses foil packaging.",
+          "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+          "quote": "This season, Hershey's Kisses is taking its iconic foil beyond the candy bowl with a limited-edition holiday gift-wrapping foil kit.",
+          "published_date": "2026-11-05",
+          "channel": "packaging",
+          "touchpoint": "Kisses holiday gift-wrapping foil kit",
+          "source_type": "press_wire",
+          "uses_qr_or_links": true,
+          "id": "8dbbd87438",
+          "url_hash": "448022787168",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-05",
+          "effective_date": "2026-11-05",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": true
+        }
+      ],
+      "status": "continuing",
+      "first_seen": "2026-11-18T02:10:51"
+    },
+    {
+      "title": "Creme Bars Pinky Up TV and social",
+      "what_is_happening": "Hershey's launched Creme Bars in September 2026 with KATSEYE 'Pinky Up' across national TV, CTV, paid social and influencers; sampling and pop-ups planned.",
+      "why_flowcode": "Heavy TV and creator spend with no scannable or trackable next step to attribute results.",
+      "play_id": "tv_scan_to_act",
+      "product_ids": [
+        "flowcodes",
+        "flowurls",
+        "flowhubs",
+        "analytics"
+      ],
+      "case_study_id": "pim_brands",
+      "signal_ids": [
+        "15508d9579",
+        "c6315d7c9e"
+      ],
+      "confidence": 5,
+      "confidence_why": "Two agreeing trade sources; close CPG TV sweepstakes match",
+      "size": 5,
+      "size_why": "National TV, CTV and paid social launch",
+      "timing": 3,
+      "timing_why": "Launch spot produced; pitch next flight and follow-on activations",
+      "suggested_play": "Flowcode in the next CTV cut and FlowURLs in influencer posts lead to one FlowHub: KATSEYE content, sweepstakes, where-to-buy. Analytics compare network and creator performance.",
+      "contact_roles": [
+        "Brand Marketing Director",
+        "Media / Advertising lead",
+        "Influencer Marketing lead"
+      ],
+      "first_step": "Ask the media lead which Creme Bars flights and creator posts are still being bought.",
+      "score": 60,
+      "play": {
+        "id": "tv_scan_to_act",
+        "name": "Scannable TV and broadcast spots",
+        "channels": [
+          "tv_broadcast"
+        ],
+        "triggers": [
+          "new TV / CTV spot",
+          "Super Bowl or tentpole ad",
+          "sponsored broadcast",
+          "holiday campaign with TV"
+        ],
+        "play": "Put a Flowcode in the spot that leads to shop, content or a sweepstakes. Use analytics to see which creative and which network drove scans, then shift media spend.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "analytics"
+        ],
+        "case_studies": [
+          "nfl_shop",
+          "planters",
+          "pim_brands"
+        ],
+        "contact_roles": [
+          "Brand Marketing Director",
+          "Media / Advertising lead",
+          "Agency of record"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowurls",
+          "name": "FlowURLs",
+          "url": "https://www.flowcode.com/product/flowurls",
+          "page_quote": "FlowURLs connect your digital marketing to your real-world marketing",
+          "what_it_does": "Branded, trackable short links with dynamic routing and IDs, for digital and social channels.",
+          "use_when": "The brand runs social, influencer, email or digital campaigns and needs attribution tied to the same identity as its offline touchpoints."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "pim_brands",
+        "brand": "PIM Brands",
+        "url": "https://www.flowcode.com/case-study/pim-brands",
+        "channel": "tv_broadcast",
+        "what_they_did": "A scannable Flowcode in an interactive TV commercial across several networks drove a Welch's Fruit Snacks sweepstakes with NFL player Mark Andrews. Real-time data was used to shift media placements.",
+        "metrics": [
+          "32k new contacts captured",
+          "56% conversion rate",
+          "93% net new"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "social_digital",
+        "tv_broadcast"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 2,
+      "signals": [
+        {
+          "claim": "Hershey's launched Creme Bars (Salted Caramel and Affogato) in September 2026 with a TV commercial, \"Pinky Up,\" featuring KATSEYE, with sampling, pop-ups and an Uber partnership planned to follow.",
+          "url": "https://www.adsoftheworld.com/campaigns/pinky-up",
+          "quote": "To celebrate the launch, Hershey's is teaming up with global girl group KATSEYE for a new campaign that gives the group's signature \"Pinky Up\" gesture with a Hershey's twist.",
+          "published_date": "2026-09-01",
+          "channel": "tv_broadcast",
+          "touchpoint": "Creme Bars 'Pinky Up' TV commercial",
+          "source_type": "trade_press",
+          "uses_qr_or_links": false,
+          "id": "15508d9579",
+          "url_hash": "aee3362be39c",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-09-01",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        },
+        {
+          "claim": "Hershey's launched Salted Caramel and Affogato Cr\u00e8me Bars with a Katseye \"Pinky Up\" campaign that runs on paid social and with influencers, among other channels.",
+          "url": "https://www.campaignlive.com/article/katseye-hersheys-redefine-indulgence-new-creme-bars-campaign/1968829",
+          "quote": "The campaign spans CTV, national TV, digital video, display, paid social, streaming audio, influencer and earned media.",
+          "published_date": "2026-09-01",
+          "channel": "social_digital",
+          "touchpoint": "Paid social and influencer campaign for Cr\u00e8me Bars",
+          "source_type": "trade_press",
+          "uses_qr_or_links": false,
+          "id": "c6315d7c9e",
+          "url_hash": "f3687a9437ff",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-09-01",
+          "effective_date": "2026-09-01",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        }
+      ],
+      "status": "continuing",
+      "first_seen": "2026-11-18T02:27:06"
+    },
+    {
+      "title": "Reese's Pie pack, next Thanksgiving",
+      "what_is_happening": "Reese's Pie returned Nov 16, 2026 on Hershey's online shop at $49.99, limit 2, plus limited quantities at select warehouse clubs.",
+      "why_flowcode": "A scarce yearly drop with no way to capture buyers for next year's release.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "welchs",
+      "signal_ids": [
+        "fdac1cb60f",
+        "9f7aab1213",
+        "b88c7b2160"
+      ],
+      "confidence": 4,
+      "confidence_why": "Brand press release; packaging case study a decent match",
+      "size": 3,
+      "size_why": "Limited quantities, online and select warehouse clubs",
+      "timing": 3,
+      "timing_why": "2026 run on sale; pitch the next return",
+      "suggested_play": "Flowcode on the Pie box opens a FlowHub with serving ideas and a 'notify me next year' sign-up; FlowID builds a waitlist synced to CRM.",
+      "contact_roles": [
+        "Brand Manager, Reese's",
+        "CRM / Lifecycle Marketing lead"
+      ],
+      "first_step": "Pitch the Reese's brand team a waitlist capture for the next Reese's Pie drop.",
+      "score": 29,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "welchs",
+        "brand": "Welch's",
+        "url": "https://www.flowcode.com/case-study/welchs",
+        "channel": "packaging",
+        "what_they_did": "Flowcodes on beverage packaging led to sustainability content and an email sign-up for CRM capture.",
+        "metrics": [
+          "55% click-through rate",
+          "14k+ total connections"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "company_wide",
+        "retail"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 3,
+      "signals": [
+        {
+          "claim": "Hershey's Reese's Pie, a giant limited-edition peanut butter cup, went on sale on Hershey's online shop on Nov 16, 2026, and has been in limited quantities at select warehouse club locations.",
+          "url": "https://www.prnewswire.com/news-releases/reeses-pie-returns-to-steal-the-show-and-your-dessert-table-this-thanksgiving-302937974.html",
+          "quote": "Reese's Pie will be available for purchase beginning November 16, 2026, at 9 a.m. ET at shop.hersheys.com/reeses-pie.html for $49.99 (limit 2 per order)",
+          "published_date": "2026-11-12",
+          "channel": "retail",
+          "touchpoint": "Hershey's online shop Reese's Pie sale",
+          "source_type": "press_wire",
+          "uses_qr_or_links": true,
+          "id": "fdac1cb60f",
+          "url_hash": "f2687162cb40",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-12",
+          "effective_date": "2026-11-12",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        },
+        {
+          "claim": "Reese's is bringing back its supersized Reese's Pie as a ready-made Thanksgiving dessert, announced by Hershey on Nov. 12, 2026.",
+          "url": "https://www.prnewswire.com/news-releases/reeses-pie-returns-to-steal-the-show-and-your-dessert-table-this-thanksgiving-302937974.html",
+          "quote": "The holidays can be stressful. Dessert doesn't have to be. This year, skip the baking, as the Reese's brand is bringing back its supersized",
+          "published_date": "2026-11-12",
+          "channel": "company_wide",
+          "touchpoint": "Reese's Pie Thanksgiving announcement",
+          "source_type": "press_wire",
+          "uses_qr_or_links": false,
+          "id": "9f7aab1213",
+          "url_hash": "f2687162cb40",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-12",
+          "effective_date": "2026-11-12",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        },
+        {
+          "claim": "Trade press reports that Hershey is expanding into dessert and bakery with the Reese's Pie, taking the Reese's brand beyond the candy aisle.",
+          "url": "https://www.foodnavigator.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/",
+          "quote": "Rather than simply introducing another chocolate product, Hershey has moved into the dessert and bakery space, taking the Reese's brand beyond the traditional confectionery aisle and into a different type of treat.",
+          "published_date": "2026-11-17",
+          "channel": "company_wide",
+          "touchpoint": "Reese's Pie dessert and bakery expansion",
+          "source_type": "trade_press",
+          "uses_qr_or_links": false,
+          "id": "b88c7b2160",
+          "url_hash": "217452cfdde2",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-17",
+          "effective_date": "2026-11-17",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        }
+      ],
+      "status": "continuing",
+      "first_seen": "2026-11-18T02:29:21"
+    },
+    {
+      "title": "Twizzlers CFL postseason sponsorship",
+      "what_is_happening": "Hershey Canada's Twizzlers became an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+      "why_flowcode": "Sponsorship reaches fans, but those fans stay with the league instead of becoming Twizzlers contacts.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "pittsburgh_penguins",
+      "signal_ids": [
+        "4ac38f9324"
+      ],
+      "confidence": 3,
+      "confidence_why": "Single trade source; pro sports in-venue case is close",
+      "size": 4,
+      "size_why": "Major Canadian league postseason sponsorship",
+      "timing": 3,
+      "timing_why": "Postseason window short; next CFL season is realistic pitch",
+      "suggested_play": "Flowcodes on in-stadium signage, broadcast reads and sampling lead to a Twizzlers FlowHub sweepstakes; Smart Rules block duplicate entries; fans land in FlowID.",
+      "contact_roles": [
+        "Sponsorships / Partnerships lead, Hershey Canada",
+        "Brand Manager, Twizzlers"
+      ],
+      "first_step": "Contact Hershey Canada partnerships about renewing CFL and remaining postseason activations.",
+      "score": 29,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "pittsburgh_penguins",
+        "brand": "Pittsburgh Penguins",
+        "url": "https://www.flowcode.com/case-study/pittsburgh-penguins",
+        "channel": "events",
+        "what_they_did": "In-arena Flowcodes drove sweepstakes entries, a 20% merch discount by live read, and scratch-card prizes.",
+        "metrics": [
+          "$8,000 revenue generated in 30 mins",
+          "88% conversion rate"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 4,
+      "signals": [
+        {
+          "claim": "Hershey Canada's Twizzlers became an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+          "url": "https://mediaincanada.com/2026/10/28/hersheys-twizzlers-adds-cfl-to-its-year-round-marketing-push/",
+          "quote": "The candy brand is now an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+          "published_date": "2026-10-28",
+          "channel": "events",
+          "touchpoint": "CFL postseason and Grey Cup sponsorship",
+          "source_type": "trade_press",
+          "uses_qr_or_links": false,
+          "id": "4ac38f9324",
+          "url_hash": "8166e4253b17",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-10-28",
+          "effective_date": "2026-10-28",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": true
+        }
+      ],
+      "status": "continuing",
+      "first_seen": "2026-11-18T02:29:21"
+    },
+    {
+      "title": "Reese's and Hershey's experiential pop-ups",
+      "what_is_happening": "Reese's gave away up to 1,000 lattes daily with recipe cards at an NYC pop-up; Hershey's Tysons pop-up closed Labor Day.",
+      "why_flowcode": "Thousands of pop-up visitors and recipe cards with no first-party capture.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "feld",
+      "signal_ids": [
+        "4e74e54b0c",
+        "6d50efff3c"
+      ],
+      "confidence": 3,
+      "confidence_why": "Secondary sources; experiential case study a reasonable match",
+      "size": 2,
+      "size_why": "Single-market pop-ups",
+      "timing": 2,
+      "timing_why": "Both pop-ups ended; Halloween tie-in suggests yearly repeat",
+      "suggested_play": "Flowcode on recipe cards, cups and signage leads to a FlowHub with recipe video and offer; Smart Rules cap one claim per person, visitors saved to FlowID.",
+      "contact_roles": [
+        "Experiential Marketing lead",
+        "Brand Manager, Reese's"
+      ],
+      "first_step": "Ask the experiential lead for the 2027 pop-up calendar, including planned Creme Bars pop-ups.",
+      "score": 10,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "feld",
+        "brand": "Feld Entertainment (Monster Jam)",
+        "url": "https://www.flowcode.com/case-study/feld-entertainment",
+        "channel": "events",
+        "what_they_did": "A citywide treasure hunt in Tampa: 20 hidden Flowcodes led to a branded FlowHub to claim tickets, and Smart Rules blocked duplicate entries.",
+        "metrics": [
+          "20 unique Flowcodes deployed",
+          "1.27K FlowHub views"
+        ],
+        "products_named": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 5,
+      "signals": [
+        {
+          "claim": "Reese's and The Nitro Bar ran a free public pop-up in New York City on Sept. 14\u201315, 2026, giving away up to 1,000 Reese's Pumpkins PB Whip Lattes a day, tied to Halloween.",
+          "url": "https://www.averagesocialite.com/nyc-events/2026/9/8/the-nitro-bar-x-reeses-pop-up-nyc",
+          "quote": "Up to 1,000 lattes will be given away each day, with every beverage accompanied by a recipe card and a handful of Reese's Pumpkins to recreate at home.",
+          "published_date": "2026-09-08",
+          "channel": "events",
+          "touchpoint": "Reese's x The Nitro Bar NYC pop-up",
+          "source_type": "other",
+          "uses_qr_or_links": false,
+          "id": "4e74e54b0c",
+          "url_hash": "c04bc1294f88",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-09-14",
+          "effective_date": "2026-09-14",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": false
+        },
+        {
+          "claim": "Hershey ran Super Sweet Adventure, a ticketed pop-up experience and retail store at Tysons Corner Center, slated to close on Labor Day 2026.",
+          "url": "https://www.ffxnow.com/2026/08/26/hershey-to-close-pop-up-store-and-experience-in-tysons-next-month/",
+          "quote": "The sweets-celebrating attraction -- which consists of both a ticketed experience and a retail store -- is slated to close on Labor Day (Monday, Sept. 7) after staying at the mall for more than four months.",
+          "published_date": "2026-08-26",
+          "channel": "events",
+          "touchpoint": "Super Sweet Adventure pop-up experience and retail store",
+          "source_type": "news",
+          "uses_qr_or_links": false,
+          "id": "6d50efff3c",
+          "url_hash": "62fdd4841e5f",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-08-26",
+          "effective_date": "2026-08-26",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": false,
+          "carried_over": true
+        }
+      ],
+      "status": "continuing",
+      "first_seen": "2026-11-18T02:27:06"
+    }
+  ],
+  "expired_opportunities": [],
+  "skipped_signal_ids": [
+    "e65334ff9d",
+    "32e51ff1f6"
+  ],
+  "rejected_opportunities": [],
+  "signals": [
+    {
+      "claim": "Hershey's launched Creme Bars (Salted Caramel and Affogato) in September 2026 with a TV commercial, \"Pinky Up,\" featuring KATSEYE, with sampling, pop-ups and an Uber partnership planned to follow.",
+      "url": "https://www.adsoftheworld.com/campaigns/pinky-up",
+      "quote": "To celebrate the launch, Hershey's is teaming up with global girl group KATSEYE for a new campaign that gives the group's signature \"Pinky Up\" gesture with a Hershey's twist.",
+      "published_date": "2026-09-01",
+      "channel": "tv_broadcast",
+      "touchpoint": "Creme Bars 'Pinky Up' TV commercial",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "15508d9579",
+      "url_hash": "aee3362be39c",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-09-01",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "Hershey's launched Salted Caramel and Affogato Cr\u00e8me Bars with a Katseye \"Pinky Up\" campaign that runs on paid social and with influencers, among other channels.",
+      "url": "https://www.campaignlive.com/article/katseye-hersheys-redefine-indulgence-new-creme-bars-campaign/1968829",
+      "quote": "The campaign spans CTV, national TV, digital video, display, paid social, streaming audio, influencer and earned media.",
+      "published_date": "2026-09-01",
+      "channel": "social_digital",
+      "touchpoint": "Paid social and influencer campaign for Cr\u00e8me Bars",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "c6315d7c9e",
+      "url_hash": "f3687a9437ff",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-09-01",
+      "effective_date": "2026-09-01",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "The Katseye Cr\u00e8me Bars campaign was set to add sampling pop-ups, influencer partnerships and an Uber collaboration in fall 2026.",
+      "url": "https://www.ypulse.com/newsfeed/2026/09/03/hersheys-katseye-campaign-leans-into-gen-zs-little-treat-culture/",
+      "quote": "The campaign will roll out on national TV with sampling pop-ups, influencer partnerships, and an Uber collaboration coming this fall.",
+      "published_date": "2026-09-03",
+      "channel": "social_digital",
+      "touchpoint": "Influencer partnerships and Uber collaboration",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "ccc7a27ca6",
+      "url_hash": "c93723cbd0ce",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "empty_or_js_rendered"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-09-03",
+      "undated": false,
+      "drop_reason": "fetch_failed:empty_or_js_rendered",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Reese's gave influencers miniature carving tools to \"carve\" Reese's peanut butter pumpkins, a social-first Halloween tactic described in Forbes CMO.",
+      "url": "https://www.forbes.com/sites/cmo/2026/10/21/inside-hersheys-halloween-marketing-makeover/",
+      "quote": "Another made-for-social-media campaign was providing influencers with miniature \u201ccarving tools\u201d to \u201ccarve\u201d Reese\u2019s peanut butter pumpkins.",
+      "published_date": "2026-10-21",
+      "channel": "social_digital",
+      "touchpoint": "Influencer Halloween campaign",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "5f2c547624",
+      "url_hash": "18c928dcefb7",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "live fetch failed (http_403); used web_fetch snapshot",
+        "quote_found": "not on page (best match 48)"
+      },
+      "match_score": 48.1,
+      "verified_via": "tool_fetch_snapshot",
+      "page_date": null,
+      "effective_date": "2026-10-21",
+      "undated": false,
+      "drop_reason": "quote_not_found",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Reese's and The Nitro Bar ran a free public pop-up in New York City on Sept. 14\u201315, 2026, giving away up to 1,000 Reese's Pumpkins PB Whip Lattes a day, tied to Halloween.",
+      "url": "https://www.averagesocialite.com/nyc-events/2026/9/8/the-nitro-bar-x-reeses-pop-up-nyc",
+      "quote": "Up to 1,000 lattes will be given away each day, with every beverage accompanied by a recipe card and a handful of Reese's Pumpkins to recreate at home.",
+      "published_date": "2026-09-08",
+      "channel": "events",
+      "touchpoint": "Reese's x The Nitro Bar NYC pop-up",
+      "source_type": "other",
+      "uses_qr_or_links": false,
+      "id": "4e74e54b0c",
+      "url_hash": "c04bc1294f88",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-09-14",
+      "effective_date": "2026-09-14",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "Hershey's 2026 holiday lineup includes limited-edition Grinch-themed packaging and a limited-edition Hershey's Kisses gift-wrapping foil kit, sold online at shop.hersheys.com/holiday on Cyber Monday, Nov. 30.",
+      "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+      "quote": "The kit will be available in three colorways\u2014silver, red and green\u2014as well as a fourth, custom design inspired by Hershey's Kisses.",
+      "published_date": "2026-11-05",
+      "channel": "packaging",
+      "touchpoint": "holiday packaging and gift-wrapping foil kit",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "0532e45144",
+      "url_hash": "448022787168",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-05",
+      "effective_date": "2026-11-05",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "Hershey's Reese's Pie, a giant limited-edition peanut butter cup, went on sale on Hershey's online shop on Nov 16, 2026, and has been in limited quantities at select warehouse club locations.",
+      "url": "https://www.prnewswire.com/news-releases/reeses-pie-returns-to-steal-the-show-and-your-dessert-table-this-thanksgiving-302937974.html",
+      "quote": "Reese's Pie will be available for purchase beginning November 16, 2026, at 9 a.m. ET at shop.hersheys.com/reeses-pie.html for $49.99 (limit 2 per order)",
+      "published_date": "2026-11-12",
+      "channel": "retail",
+      "touchpoint": "Hershey's online shop Reese's Pie sale",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "fdac1cb60f",
+      "url_hash": "f2687162cb40",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-12",
+      "effective_date": "2026-11-12",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "TheStreet reports the Reese's Pie showed up at Costco and BJ's Wholesale Club in October, ahead of the online sale, with availability varying by club location.",
+      "url": "https://www.thestreet.com/retail/reeses-thanksgiving-pie-2026-where-to-buy",
+      "quote": "Hershey says select clubs have carried it in limited quantities, with availability varying by location.",
+      "published_date": "2026-11-16",
+      "channel": "retail",
+      "touchpoint": "warehouse club distribution of Reese's Pie",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "1580f1fa8e",
+      "url_hash": "28672c7743db",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-11-16",
+      "undated": false,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Reese's is bringing back its supersized Reese's Pie as a ready-made Thanksgiving dessert, announced by Hershey on Nov. 12, 2026.",
+      "url": "https://www.prnewswire.com/news-releases/reeses-pie-returns-to-steal-the-show-and-your-dessert-table-this-thanksgiving-302937974.html",
+      "quote": "The holidays can be stressful. Dessert doesn't have to be. This year, skip the baking, as the Reese's brand is bringing back its supersized",
+      "published_date": "2026-11-12",
+      "channel": "company_wide",
+      "touchpoint": "Reese's Pie Thanksgiving announcement",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "9f7aab1213",
+      "url_hash": "f2687162cb40",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-12",
+      "effective_date": "2026-11-12",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "Trade press reports that Hershey is expanding into dessert and bakery with the Reese's Pie, taking the Reese's brand beyond the candy aisle.",
+      "url": "https://www.foodnavigator.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/",
+      "quote": "Rather than simply introducing another chocolate product, Hershey has moved into the dessert and bakery space, taking the Reese's brand beyond the traditional confectionery aisle and into a different type of treat.",
+      "published_date": "2026-11-17",
+      "channel": "company_wide",
+      "touchpoint": "Reese's Pie dessert and bakery expansion",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "b88c7b2160",
+      "url_hash": "217452cfdde2",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-17",
+      "effective_date": "2026-11-17",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": false
+    },
+    {
+      "claim": "Hershey ran Super Sweet Adventure, a ticketed pop-up experience and retail store at Tysons Corner Center, slated to close on Labor Day 2026.",
+      "url": "https://www.ffxnow.com/2026/08/26/hershey-to-close-pop-up-store-and-experience-in-tysons-next-month/",
+      "quote": "The sweets-celebrating attraction -- which consists of both a ticketed experience and a retail store -- is slated to close on Labor Day (Monday, Sept. 7) after staying at the mall for more than four months.",
+      "published_date": "2026-08-26",
+      "channel": "events",
+      "touchpoint": "Super Sweet Adventure pop-up experience and retail store",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "6d50efff3c",
+      "url_hash": "62fdd4841e5f",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-08-26",
+      "effective_date": "2026-08-26",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": true
+    },
+    {
+      "claim": "Reese's launched a Trick-or-Treatiest Street in America search, with a first-ever Halloween Council of celebrities and creators documenting it in a two-part social content series.",
+      "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+      "quote": "A two-part social content series will see the brand's first-ever Halloween Council, inclusive of creators and celebrities Christina Ricci and Kathy Najimy, analyze 150 of the best streets for trick-or-treating.",
+      "published_date": "2026-10-01",
+      "channel": "social_digital",
+      "touchpoint": "two-part social content series",
+      "source_type": "trade_press",
+      "uses_qr_or_links": true,
+      "id": "1f7fb5e942",
+      "url_hash": "8523fb38e74c",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-10-01",
+      "undated": false,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": true
+    },
+    {
+      "claim": "Hershey Canada's Twizzlers became an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+      "url": "https://mediaincanada.com/2026/10/28/hersheys-twizzlers-adds-cfl-to-its-year-round-marketing-push/",
+      "quote": "The candy brand is now an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+      "published_date": "2026-10-28",
+      "channel": "events",
+      "touchpoint": "CFL postseason and Grey Cup sponsorship",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "4ac38f9324",
+      "url_hash": "8166e4253b17",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-10-28",
+      "effective_date": "2026-10-28",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": true
+    },
+    {
+      "claim": "Hershey's Kisses is launching a limited-edition holiday gift-wrapping foil kit based on its Kisses foil packaging.",
+      "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+      "quote": "This season, Hershey's Kisses is taking its iconic foil beyond the candy bowl with a limited-edition holiday gift-wrapping foil kit.",
+      "published_date": "2026-11-05",
+      "channel": "packaging",
+      "touchpoint": "Kisses holiday gift-wrapping foil kit",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "8dbbd87438",
+      "url_hash": "448022787168",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-05",
+      "effective_date": "2026-11-05",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": true
+    },
+    {
+      "claim": "Hershey's 2026 holiday line includes co-branded Dr. Seuss Grinch packaging, including a Grinch milk chocolate bar 6-pack.",
+      "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+      "quote": "Creamy Hershey's milk chocolate bars feature festive Grinch packaging in a giftable 6-pack.",
+      "published_date": "2026-11-05",
+      "channel": "packaging",
+      "touchpoint": "Grinch holiday packaging",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "6821134800",
+      "url_hash": "448022787168",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-05",
+      "effective_date": "2026-11-05",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": true
+    },
+    {
+      "claim": "Costco ran a Hershey's assorted-bar variety pack as part of its October Member-Only Savings, which ended Oct 18.",
+      "url": "https://www.tastingtable.com/2273107/best-costco-products-october-2026/",
+      "quote": "Costco is selling 30-count variety packs of full-sized Hershey's bars, Reese's, Kit Kats, and Hershey's with Almonds as part of the October Member-Only Savings through October 18th.",
+      "published_date": "2026-09-30",
+      "channel": "retail",
+      "touchpoint": "Costco Member-Only Savings variety pack",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "e65334ff9d",
+      "url_hash": "ea691315e3b0",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-09-30",
+      "effective_date": "2026-09-30",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": true
+    },
+    {
+      "claim": "Reese's is running a Halloween campaign to find the Trick-or-Treatiest Street in America using data, community insights and a first-ever Halloween Council.",
+      "url": "https://www.thehersheycompany.com/en_us/home/newsroom/press-release/2026-10-01-Reeses-is-on-the-Hunt-to-Find-the-Trick-or-Treatiest-Street-in-America.html",
+      "quote": "taps data, community insights and a first-ever Halloween Council to find the street that brings Halloween magic to life like no other",
+      "published_date": "2026-10-01",
+      "channel": "company_wide",
+      "touchpoint": "Trick-or-Treatiest Street campaign",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "32e51ff1f6",
+      "url_hash": "cb50d0d2462d",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "tool_fetch_snapshot",
+      "page_date": null,
+      "effective_date": "2026-10-01",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": false,
+      "carried_over": true
+    }
+  ]
+}

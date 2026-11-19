@@ -1,0 +1,436 @@
+{
+  "opportunities": [
+    {
+      "title": "Holiday cups to Rewards, 2027 run",
+      "what_is_happening": "Starbucks launched 2026 holiday cups and Bearista merch nationwide Nov. 5; Rewards hit a record 36 million 90-day active U.S. members.",
+      "why_flowcode": "Holiday cups reach every customer, but nothing on the cup turns non-members into Rewards first-party contacts.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "love_corn",
+      "signal_ids": [
+        "63bca0227e",
+        "02ac51d019"
+      ],
+      "confidence": 4,
+      "confidence_why": "Two agreeing signals; food-and-beverage packaging case study fits.",
+      "size": 5,
+      "size_why": "Nationwide holiday cups tied to a 36M-member program.",
+      "timing": 3,
+      "timing_why": "2026 cups already in stores; pitch the 2027 run.",
+      "suggested_play": "Print a Flowcode on 2027 holiday cups and Bearista merch tags leading to a holiday FlowHub; Smart Rules send members to offers and non-members to Rewards enrollment, synced to CRM.",
+      "contact_roles": [
+        "Brand Manager",
+        "Packaging & Design lead",
+        "Loyalty Program lead"
+      ],
+      "first_step": "Ask the Loyalty Program lead when 2027 holiday cup artwork locks; pitch on-cup Rewards enrollment.",
+      "score": 48,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "love_corn",
+        "brand": "LOVE CORN",
+        "url": "https://www.flowcode.com/case-study/love-corn",
+        "channel": "packaging",
+        "what_they_did": "Flowcodes on snack packaging led to a 'Snap, Scan, Win' giveaway, CRM sign-up and online purchase.",
+        "metrics": [
+          "62% CRM conversion rate through packaging",
+          "27k new customers captured",
+          "43,000 total scans"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "company_wide",
+        "email_loyalty"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 1
+    },
+    {
+      "title": "Perfect Harmony holiday TV spot",
+      "what_is_happening": "Starbucks' 2026 US holiday TV spot \"Perfect Harmony\" is a 30-second Anomaly animation paired with a seven-track Holiday Blend album.",
+      "why_flowcode": "The spot has no scannable next step, so Starbucks cannot measure which networks drive action.",
+      "play_id": "tv_scan_to_act",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "analytics"
+      ],
+      "case_study_id": "planters",
+      "signal_ids": [
+        "5dd2caf338"
+      ],
+      "confidence": 3,
+      "confidence_why": "Single trade-press source; tentpole TV case study matches well.",
+      "size": 5,
+      "size_why": "National U.S. holiday TV campaign.",
+      "timing": 4,
+      "timing_why": "Holiday flight still airing; an end card can be added.",
+      "suggested_play": "Add a Flowcode end card leading to a FlowHub to stream the Holiday Blend album and find holiday drinks; track scans by network and creative to shift remaining holiday spend.",
+      "contact_roles": [
+        "Brand Marketing Director",
+        "Media / Advertising lead",
+        "Agency of record"
+      ],
+      "first_step": "Contact the Media lead about adding a scannable end card to remaining holiday flights.",
+      "score": 48,
+      "play": {
+        "id": "tv_scan_to_act",
+        "name": "Scannable TV and broadcast spots",
+        "channels": [
+          "tv_broadcast"
+        ],
+        "triggers": [
+          "new TV / CTV spot",
+          "Super Bowl or tentpole ad",
+          "sponsored broadcast",
+          "holiday campaign with TV"
+        ],
+        "play": "Put a Flowcode in the spot that leads to shop, content or a sweepstakes. Use analytics to see which creative and which network drove scans, then shift media spend.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "analytics"
+        ],
+        "case_studies": [
+          "nfl_shop",
+          "planters",
+          "pim_brands"
+        ],
+        "contact_roles": [
+          "Brand Marketing Director",
+          "Media / Advertising lead",
+          "Agency of record"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "planters",
+        "brand": "PLANTERS",
+        "url": "https://www.flowcode.com/case-study/planters",
+        "channel": "tv_broadcast",
+        "what_they_did": "A Flowcode in the 2023 Super Bowl ad ('The Roast of Mr. Peanut', with VaynerMedia) led to long-form YouTube content.",
+        "metrics": [
+          "76% viewed full length content from ad",
+          "45% opted to share geolocation data"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "tv_broadcast"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 2
+    },
+    {
+      "title": "Toulouse FC matchday fan capture",
+      "what_is_happening": "Starbucks became an Official Partner of Ligue 1 club Toulouse FC, with its logo on the men's shirt sleeve and academy kits.",
+      "why_flowcode": "A sleeve logo builds awareness but gives Starbucks no first-party fan data.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "pittsburgh_penguins",
+      "signal_ids": [
+        "9ad58b876c"
+      ],
+      "confidence": 3,
+      "confidence_why": "Single trade-press source; in-arena pro sports case fits.",
+      "size": 3,
+      "size_why": "Single club in one market.",
+      "timing": 5,
+      "timing_why": "Partnership began September; season matchdays remain open.",
+      "suggested_play": "Place Flowcodes on stadium signage and live reads leading to a Starbucks FlowHub with a matchday drink offer and sweepstakes; FlowID captures fans, Smart Rules block duplicates.",
+      "contact_roles": [
+        "Sponsorships / Partnerships lead",
+        "Experiential Marketing lead"
+      ],
+      "first_step": "Reach the Sponsorships lead with a matchday activation concept for upcoming Toulouse home games.",
+      "score": 36,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "pittsburgh_penguins",
+        "brand": "Pittsburgh Penguins",
+        "url": "https://www.flowcode.com/case-study/pittsburgh-penguins",
+        "channel": "events",
+        "what_they_did": "In-arena Flowcodes drove sweepstakes entries, a 20% merch discount by live read, and scratch-card prizes.",
+        "metrics": [
+          "$8,000 revenue generated in 30 mins",
+          "88% conversion rate"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 3
+    },
+    {
+      "title": "Bearista pop-up, Singapore malls",
+      "what_is_happening": "Starbucks runs a travelling Bearista Holiday Experience pop-up across CapitaLand malls, unlocked with a reward code in the CapitaStar app.",
+      "why_flowcode": "Unlocks run through the mall's app, so entrants become CapitaLand data, not Starbucks contacts.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid",
+        "analytics"
+      ],
+      "case_study_id": "feld",
+      "signal_ids": [
+        "b6d167570b"
+      ],
+      "confidence": 3,
+      "confidence_why": "Secondary source; Feld multi-location activation is a close analogy.",
+      "size": 2,
+      "size_why": "Single-market mall pop-up.",
+      "timing": 4,
+      "timing_why": "Live and travelling now; signage can change between stops.",
+      "suggested_play": "Give each mall stop its own Flowcode leading to a Bearista FlowHub that unlocks the experience; FlowID captures entrants, Smart Rules block repeats, analytics compare malls.",
+      "contact_roles": [
+        "Experiential Marketing lead",
+        "Sponsorships / Partnerships lead"
+      ],
+      "first_step": "Contact Starbucks Singapore marketing to propose Flowcode signage at the next mall stop.",
+      "score": 19,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "feld",
+        "brand": "Feld Entertainment (Monster Jam)",
+        "url": "https://www.flowcode.com/case-study/feld-entertainment",
+        "channel": "events",
+        "what_they_did": "A citywide treasure hunt in Tampa: 20 hidden Flowcodes led to a branded FlowHub to claim tickets, and Smart Rules blocked duplicate entries.",
+        "metrics": [
+          "20 unique Flowcodes deployed",
+          "1.27K FlowHub views"
+        ],
+        "products_named": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 4
+    }
+  ],
+  "skipped_signal_ids": [
+    "51ad700f54",
+    "41ff890301"
+  ],
+  "rejected": []
+}

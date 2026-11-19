@@ -1,0 +1,1379 @@
+{
+  "slug": "e-l-f-beauty",
+  "input": "e.l.f. Beauty",
+  "run_id": "20261118-190113-088898",
+  "generated_at": "2026-11-18T19:03:16",
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  },
+  "resolution": {
+    "official_name": "e.l.f. Beauty, Inc.",
+    "domain": "elfbeauty.com",
+    "newsroom_url": "https://investor.elfbeauty.com/stock-and-financial/press-releases",
+    "parent_company": null,
+    "category": "beauty and personal care (cosmetics and skincare)",
+    "sub_brands": [
+      "e.l.f. Cosmetics",
+      "e.l.f. SKIN",
+      "rhode",
+      "Naturium",
+      "Well People"
+    ],
+    "one_liner": "Oakland, California-based, publicly traded (NYSE: ELF) company that makes luxurious beauty accessible for all, selling affordable cosmetics and skincare through retailers such as Target, Walmart, Ulta Beauty, Sephora and Amazon, and online."
+  },
+  "stats": {
+    "signals_found": 15,
+    "signals_verified": 12,
+    "signals_dropped": 3,
+    "drop_reasons": {
+      "duplicate": 3
+    },
+    "new_signals": 12,
+    "carried_over": 0,
+    "carried_over_verified": 0,
+    "opportunities": 5,
+    "per_channel": {
+      "tv_broadcast": {
+        "found": 1,
+        "verified": 1
+      },
+      "social_digital": {
+        "found": 3,
+        "verified": 3
+      },
+      "email_loyalty": {
+        "found": 2,
+        "verified": 2
+      },
+      "events": {
+        "found": 3,
+        "verified": 3
+      },
+      "packaging": {
+        "found": 2,
+        "verified": 1
+      },
+      "retail": {
+        "found": 2,
+        "verified": 1
+      },
+      "company_wide": {
+        "found": 2,
+        "verified": 1
+      }
+    },
+    "cost_usd": 1.0815,
+    "tokens_in": 275952,
+    "tokens_out": 19685,
+    "cache_read_tokens": 176613,
+    "web_searches": 11,
+    "web_fetches": 16,
+    "llm_calls": 12,
+    "elapsed_s": 123.6,
+    "run_cost_usd": 1.0815,
+    "total_cost_usd": 1.0815,
+    "total_web_searches": 11,
+    "stage_costs": {
+      "resolve": {
+        "cost_usd": 0.0497,
+        "searches": 1,
+        "fetches": 0
+      },
+      "research": {
+        "cost_usd": 0.7872,
+        "searches": 10,
+        "fetches": 16
+      },
+      "extract": {
+        "cost_usd": 0.051,
+        "searches": 0,
+        "fetches": 0
+      },
+      "rank": {
+        "cost_usd": 0.1937,
+        "searches": 0,
+        "fetches": 0
+      }
+    },
+    "reused_stages": []
+  },
+  "models": {
+    "resolve": "claude-sonnet-5-5",
+    "sweep": "claude-sonnet-5-5",
+    "research": "claude-sonnet-5-5",
+    "extract": "claude-sonnet-5-5",
+    "rank": "claude-opus-5-5"
+  },
+  "opportunities": [
+    {
+      "title": "Holiday spot, Target and Best Buy aisles",
+      "what_is_happening": "e.l.f.'s first holiday spot, 'Made to Stand Out', runs on digital, social and TV-section takeovers at Best Buy and Target through the holiday season.",
+      "why_flowcode": "The in-aisle spot reaches shoppers but has no scan path, so no store-level attribution or first-party capture.",
+      "play_id": "tv_scan_to_act",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "analytics"
+      ],
+      "case_study_id": "nfl_shop",
+      "signal_ids": [
+        "4ced563818",
+        "ce55a13187"
+      ],
+      "confidence": 4,
+      "confidence_why": "Brand release plus wire; TV case, different category.",
+      "size": 5,
+      "size_why": "National Target and Best Buy footprint plus social.",
+      "timing": 4,
+      "timing_why": "Runs through holiday season; screen creative still swappable.",
+      "suggested_play": "Add an end-card Flowcode to the in-aisle spot, unique per retailer, opening a holiday gift FlowHub with shop links and email sign-up. Compare scans by store and retailer.",
+      "contact_roles": [
+        "Brand Marketing Director",
+        "Media / Advertising lead",
+        "Shopper Marketing lead"
+      ],
+      "first_step": "Ask the media lead who controls in-store screen creative at Target and Best Buy.",
+      "score": 64,
+      "play": {
+        "id": "tv_scan_to_act",
+        "name": "Scannable TV and broadcast spots",
+        "channels": [
+          "tv_broadcast"
+        ],
+        "triggers": [
+          "new TV / CTV spot",
+          "Super Bowl or tentpole ad",
+          "sponsored broadcast",
+          "holiday campaign with TV"
+        ],
+        "play": "Put a Flowcode in the spot that leads to shop, content or a sweepstakes. Use analytics to see which creative and which network drove scans, then shift media spend.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "analytics"
+        ],
+        "case_studies": [
+          "nfl_shop",
+          "planters",
+          "pim_brands"
+        ],
+        "contact_roles": [
+          "Brand Marketing Director",
+          "Media / Advertising lead",
+          "Agency of record"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "nfl_shop",
+        "brand": "NFL Shop",
+        "url": "https://www.flowcode.com/case-study/nfl-shop",
+        "channel": "tv_broadcast",
+        "what_they_did": "Flowcodes inside a TV broadcast spot sent viewers straight to the NFL Shop store to buy.",
+        "metrics": [
+          "10k connections in just 60s",
+          "$25k revenue generated"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "social_digital",
+        "tv_broadcast"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 1,
+      "signals": [
+        {
+          "claim": "e.l.f. launched its first-ever holiday campaign, \"e.l.f. Made to Stand Out,\" a stop-motion spot narrated by Alan Cumming that runs on digital and social platforms and extends into TV sections at Best Buy and Target stores.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+          "quote": "The holiday magic will extend beyond the screen and into the shopping aisle in a takeover of the TV sections of Best Buy and Target stores throughout the holiday gift-giving season.",
+          "published_date": "2026-11-02",
+          "channel": "company_wide",
+          "touchpoint": "first-ever holiday campaign",
+          "source_type": "press_wire",
+          "uses_qr_or_links": false,
+          "id": "4ced563818",
+          "url_hash": "c7bdebf094fe",
+          "verified": false,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "duplicate"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-11-02",
+          "undated": false,
+          "drop_reason": "duplicate",
+          "first_seen": null,
+          "is_new": true,
+          "carried_over": false
+        },
+        {
+          "claim": "e.l.f.'s first-ever holiday campaign, \"Made to Stand Out\", debuted Nov 2 on e.l.f. digital and social platforms and extends into Best Buy and Target TV aisles.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+          "quote": "The 60-second \"e.l.f. Made to Stand Out\" spot debuts November 2, 2026, across e.l.f. digital and social platforms.",
+          "published_date": "2026-11-02",
+          "channel": "social_digital",
+          "touchpoint": "holiday campaign spot on digital and social platforms",
+          "source_type": "press_wire",
+          "uses_qr_or_links": false,
+          "id": "ce55a13187",
+          "url_hash": "c7bdebf094fe",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-11-02",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "NWSL, Spurs Women and fair pop-ups",
+      "what_is_happening": "e.l.f. returns to the NWSL Championship Fan Fest, renewed its Tottenham Hotspur Women shirt sponsorship, and ran state fair pop-ups.",
+      "why_flowcode": "Fan Fest, pop-ups and sponsorship assets draw crowds but capture no first-party contacts for e.l.f.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "pittsburgh_penguins",
+      "signal_ids": [
+        "f0f23a877e",
+        "846d04f8c2",
+        "d26301bb6d"
+      ],
+      "confidence": 4,
+      "confidence_why": "Brand-owned announcements; sports case, different category.",
+      "size": 4,
+      "size_why": "US league final plus UK club season; multi-market.",
+      "timing": 4,
+      "timing_why": "Spurs mid-season; NWSL final imminent; fair pop-ups ended.",
+      "suggested_play": "Put Flowcodes on Fan Fest booths, Glow For Glory entry and Spurs matchday assets leading to a contest FlowHub. Smart Rules block duplicates; FlowID keeps each fan as e.l.f.'s contact.",
+      "contact_roles": [
+        "Sponsorships / Partnerships lead",
+        "Experiential Marketing lead"
+      ],
+      "first_step": "Pitch Spurs Women matchday codes now; propose codes for the next fair pop-up tour.",
+      "score": 51,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "pittsburgh_penguins",
+        "brand": "Pittsburgh Penguins",
+        "url": "https://www.flowcode.com/case-study/pittsburgh-penguins",
+        "channel": "events",
+        "what_they_did": "In-arena Flowcodes drove sweepstakes entries, a 20% merch discount by live read, and scratch-card prizes.",
+        "metrics": [
+          "$8,000 revenue generated in 30 mins",
+          "88% conversion rate"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 2,
+      "signals": [
+        {
+          "claim": "e.l.f. Cosmetics and e.l.f. SKIN are back at the 2026 NWSL Championship for a second year with the Glow For Glory contest, a March to the Match and a Fan Fest presence streamed on Twitch.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-17-2026-050129478",
+          "quote": "All season long, e.l.f. has activated a connected commerce ecosystem across Amazon, TikTok Live, and social platforms like Glow Up!, e.l.f.'s Roblox makeup experience, converting NWSL moments into real-time sales.",
+          "published_date": "2026-11-17",
+          "channel": "events",
+          "touchpoint": "NWSL Championship Fan Fest and Glow For Glory",
+          "source_type": "brand_owned",
+          "uses_qr_or_links": false,
+          "id": "f0f23a877e",
+          "url_hash": "2363e60865f0",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-11-17",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        },
+        {
+          "claim": "e.l.f. renewed as Official Back of Shirt Sponsor of Tottenham Hotspur Women for the 2026-27 season.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/10-13-2026-203028619",
+          "quote": "Throughout the 2026-2027 season, Tottenham Hotspur Women and e.l.f. will continue to deliver unique experiences, innovative content and community initiatives.",
+          "published_date": "2026-10-13",
+          "channel": "events",
+          "touchpoint": "Tottenham Hotspur Women sponsorship",
+          "source_type": "brand_owned",
+          "uses_qr_or_links": false,
+          "id": "846d04f8c2",
+          "url_hash": "bb3159863a6d",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-10-13",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        },
+        {
+          "claim": "e.l.f. took its pickle-themed \"eyes.lips.fairgrounds.\" pop-up to the State Fair of Texas on Oct 9\u201311, following its Minnesota State Fair debut.",
+          "url": "https://www.businesswire.com/news/home/20261008259574/en/e.l.f.-Brands-Is-Bringing-eyes.lips.fairgrounds.-to-the-State-Fair-of-Texas",
+          "quote": "In Minnesota, more than 64K people passed through e.l.f.'s activation and the average guest at the e.l.f. activation spent 8 minutes getting to know how the brand shows up as a different kind of company.",
+          "published_date": "2026-10-08",
+          "channel": "events",
+          "touchpoint": "State Fair of Texas pop-up activation",
+          "source_type": "press_wire",
+          "uses_qr_or_links": false,
+          "id": "d26301bb6d",
+          "url_hash": "7756f0a9450e",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "live fetch failed (http_403); used web_fetch snapshot",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "tool_fetch_snapshot",
+          "page_date": null,
+          "effective_date": "2026-10-08",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "e.l.f. POP holiday packs, next run",
+      "what_is_happening": "e.l.f. POP, its first fragrance and body care line, debuted with limited-edition Troms\u00f8 holiday packaging; Beauty Squad rewards retail purchases via receipt upload.",
+      "why_flowcode": "Packs carry no scan path, and retail buyers reach Beauty Squad only through manual receipt uploads.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "love_corn",
+      "signal_ids": [
+        "ccec7e3c4f",
+        "db4175f53b"
+      ],
+      "confidence": 4,
+      "confidence_why": "Brand-owned sources; packaging case, different category.",
+      "size": 4,
+      "size_why": "New line from a national brand; limited edition.",
+      "timing": 3,
+      "timing_why": "Holiday packs already printed; pitch next limited run.",
+      "suggested_play": "Put a Flowcode on the next POP limited-edition pack opening a FlowHub with scent content and a giveaway; FlowID enrolls scanners into Beauty Squad with CRM sync.",
+      "contact_roles": [
+        "Brand Manager",
+        "Packaging & Design lead",
+        "CRM / Loyalty lead"
+      ],
+      "first_step": "Ask the POP brand manager when the next limited-edition packaging brief locks.",
+      "score": 38,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "love_corn",
+        "brand": "LOVE CORN",
+        "url": "https://www.flowcode.com/case-study/love-corn",
+        "channel": "packaging",
+        "what_they_did": "Flowcodes on snack packaging led to a 'Snap, Scan, Win' giveaway, CRM sign-up and online purchase.",
+        "metrics": [
+          "62% CRM conversion rate through packaging",
+          "27k new customers captured",
+          "43,000 total scans"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "email_loyalty",
+        "packaging"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 3,
+      "signals": [
+        {
+          "claim": "e.l.f. launched e.l.f. POP, its first fragrance and body care line, debuting with a limited-edition holiday Troms\u00f8 collection with packaging designed with two Norwegian artists.",
+          "url": "https://www.elfbeauty.com/articles/e-l-f-expands-into-fragrance-and-body-care-categories-with-launch-of-e-l-f-pop-debuting-limited-edition-holiday-spicy-bundt-nice-collection-inspired-by-tromso-norway",
+          "quote": "e.l.f. partnered with two Norwegian artists to create a holistic, transporting experience across the Troms\u00f8 collection's packaging and supporting campaign. Illustrator Esra R\u00f8ise anchors the collection's visuals across the product line.",
+          "published_date": "2026-10-05",
+          "channel": "packaging",
+          "touchpoint": "e.l.f. POP Troms\u00f8 collection packaging",
+          "source_type": "brand_owned",
+          "uses_qr_or_links": false,
+          "id": "ccec7e3c4f",
+          "url_hash": "de40f60c26ab",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-10-05",
+          "effective_date": "2026-10-05",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        },
+        {
+          "claim": "e.l.f. Cosmetics runs a live Beauty Squad loyalty program and mobile app where members earn points on retailer purchases by uploading receipts, giving the brand first-party data on sales outside its own site.",
+          "url": "https://www.elfcosmetics.com/blogs/the-elf-word/discover-the-elf-cosmetics-app",
+          "quote": "If you purchase e.l.f. products at retail partners like Target, Ulta, Walmart, or other authorized stores - simply upload your receipt after purchasing any e.l.f. SKIN or cosmetic item to receive points",
+          "published_date": null,
+          "channel": "email_loyalty",
+          "touchpoint": "Beauty Squad loyalty program and mobile app",
+          "source_type": "brand_owned",
+          "uses_qr_or_links": true,
+          "id": "db4175f53b",
+          "url_hash": "86ab79a9f2d4",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-07-27",
+          "effective_date": "2026-07-27",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "Well People Sprouts aisle rollout",
+      "what_is_happening": "Well People launched in more than 500 Sprouts stores and on Sprouts.com, placed in the Beauty & Wellness aisle.",
+      "why_flowcode": "A new grocery shelf placement gives no read on which stores drive discovery or trial.",
+      "play_id": "retail_shelf",
+      "product_ids": [
+        "flowcodes",
+        "analytics",
+        "flowhubs"
+      ],
+      "case_study_id": "eddie_bauer",
+      "signal_ids": [
+        "c10a10335e"
+      ],
+      "confidence": 3,
+      "confidence_why": "Single wire source; retail tag case is loose analogy.",
+      "size": 4,
+      "size_why": "Chain-wide rollout at a major grocer.",
+      "timing": 4,
+      "timing_why": "Launched Nov 9; shelf strips and displays still changeable.",
+      "suggested_play": "Put location-coded Flowcodes on Sprouts shelf strips and displays opening a Well People FlowHub with product info and a Sprouts.com link; compare scans by store.",
+      "contact_roles": [
+        "Shopper Marketing lead",
+        "Retail / Channel Marketing lead"
+      ],
+      "first_step": "Ask Well People shopper marketing which in-aisle materials Sprouts allows this quarter.",
+      "score": 38,
+      "play": {
+        "id": "retail_shelf",
+        "name": "Retail shelf, display and tag",
+        "channels": [
+          "retail"
+        ],
+        "triggers": [
+          "new retail partnership or distribution",
+          "in-store displays or end caps",
+          "retailer-exclusive products",
+          "shoppable in-store events"
+        ],
+        "play": "Put Flowcodes on displays, shelf strips and tags that open a product page, retailer checkout or offer. Use analytics by location to see which stores and displays work.",
+        "products": [
+          "flowcodes",
+          "analytics",
+          "flowhubs"
+        ],
+        "case_studies": [
+          "eddie_bauer",
+          "clear"
+        ],
+        "contact_roles": [
+          "Shopper Marketing lead",
+          "Retail / Channel Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        }
+      ],
+      "case_study": {
+        "id": "eddie_bauer",
+        "brand": "Eddie Bauer",
+        "url": "https://www.flowcode.com/case-study/eddie-bauer",
+        "channel": "retail",
+        "what_they_did": "API-generated dynamic Flowcodes on in-store hang tags opened mobile product pages with fit, reviews and real-time inventory.",
+        "metrics": [
+          "183% YoY scan growth",
+          "167K all-time connections"
+        ],
+        "products_named": [
+          "flowcodes",
+          "analytics"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "retail"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 4,
+      "signals": [
+        {
+          "claim": "Well People (an e.l.f. Beauty brand) launched in more than 500 Sprouts Farmers Market stores and on Sprouts.com, placed in the Beauty & Wellness aisle.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-09-2026-050118811",
+          "quote": "The chain-wide rollout brings Well People to more than 500 Sprouts locations, making clean beauty easy to discover as part of the weekly grocery and wellness shop.",
+          "published_date": "2026-11-09",
+          "channel": "retail",
+          "touchpoint": "Sprouts Farmers Market Beauty & Wellness aisle",
+          "source_type": "press_wire",
+          "uses_qr_or_links": false,
+          "id": "c10a10335e",
+          "url_hash": "6af36a8ee846",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-11-09",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "Roblox and ZEPETO link attribution",
+      "what_is_happening": "Glow Up! on Roblox has 12 million-plus visits with new Kuromi content through the holidays; e.l.f. also launched a ZEPETO styling experience.",
+      "why_flowcode": "Game and social traffic is not tied to the same identity as e.l.f.'s offline touchpoints.",
+      "play_id": "social_links",
+      "product_ids": [
+        "flowurls",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "waterpik",
+      "signal_ids": [
+        "a84eb3b03c",
+        "cb0fb34004"
+      ],
+      "confidence": 2,
+      "confidence_why": "Wire sources; link fit plausible, game channel unproven.",
+      "size": 4,
+      "size_why": "12M-plus visits on large global platforms.",
+      "timing": 4,
+      "timing_why": "Holiday content still being added; links changeable anytime.",
+      "suggested_play": "Route Glow Up! and ZEPETO calls to action through FlowURLs to a shared FlowHub, so game players and in-store scanners resolve to one FlowID profile.",
+      "contact_roles": [
+        "Social / Digital Marketing lead",
+        "Influencer Marketing lead"
+      ],
+      "first_step": "Ask the digital lead how Glow Up! traffic is attributed to sales today.",
+      "score": 26,
+      "play": {
+        "id": "social_links",
+        "name": "Branded links for social and creators",
+        "channels": [
+          "social_digital"
+        ],
+        "triggers": [
+          "influencer or creator campaign",
+          "TikTok / social campaign",
+          "digital sweepstakes"
+        ],
+        "play": "Use FlowURLs in creator and social posts that lead to the same FlowHub and FlowID as the offline touchpoints, so the brand can attribute digital and physical activity to the same people.",
+        "products": [
+          "flowurls",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "waterpik",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Social / Digital Marketing lead",
+          "Influencer Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowurls",
+          "name": "FlowURLs",
+          "url": "https://www.flowcode.com/product/flowurls",
+          "page_quote": "FlowURLs connect your digital marketing to your real-world marketing",
+          "what_it_does": "Branded, trackable short links with dynamic routing and IDs, for digital and social channels.",
+          "use_when": "The brand runs social, influencer, email or digital campaigns and needs attribution tied to the same identity as its offline touchpoints."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "waterpik",
+        "brand": "Waterpik",
+        "url": "https://www.flowcode.com/case-study/waterpik",
+        "channel": "social_digital",
+        "what_they_did": "A branded short-URL experience in digital channels led to a landing page with a sweepstakes and email opt-in form.",
+        "metrics": [
+          "5x original goal achieved",
+          "76% conversion rate",
+          "95% net new contacts"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "social_digital"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 5,
+      "signals": [
+        {
+          "claim": "e.l.f. Cosmetics added Sanrio's Kuromi to its Glow Up! Roblox experience, with new content planned through the holiday season.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/10-20-2026-050119048",
+          "quote": "Glow Up! is the no. 1 branded makeup game on Roblox, with more than 12 million visits since launch.",
+          "published_date": "2026-10-20",
+          "channel": "social_digital",
+          "touchpoint": "Glow Up! Roblox experience",
+          "source_type": "press_wire",
+          "uses_qr_or_links": true,
+          "id": "a84eb3b03c",
+          "url_hash": "0e22e526df77",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-10-20",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        },
+        {
+          "claim": "e.l.f. launched \"Express your e.l.f.\", its first virtual styling experience on the ZEPETO avatar platform, where players dress avatars in e.l.f.-designed looks and share photos and videos to the ZEPETO feed.",
+          "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/10-12-2026-050131076",
+          "quote": "Players can also show off their e.l.f. looks by snapping photos and videos against custom e.l.f. backgrounds and sharing them directly to the ZEPETO feed.",
+          "published_date": "2026-10-12",
+          "channel": "social_digital",
+          "touchpoint": "ZEPETO virtual styling experience",
+          "source_type": "press_wire",
+          "uses_qr_or_links": true,
+          "id": "cb0fb34004",
+          "url_hash": "7e4abfeec0a4",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": null,
+          "effective_date": "2026-10-12",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    }
+  ],
+  "expired_opportunities": [],
+  "skipped_signal_ids": [
+    "3e69db982e",
+    "51887a3155"
+  ],
+  "rejected_opportunities": [],
+  "signals": [
+    {
+      "claim": "e.l.f. launched its first-ever holiday campaign, a 60-second stop-motion spot narrated by Alan Cumming. It runs on digital and social platforms and in a takeover of the TV sections at Best Buy and Target.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+      "quote": "The holiday magic will extend beyond the screen and into the shopping aisle in a takeover of the TV sections of Best Buy and Target stores throughout the holiday gift-giving season.",
+      "published_date": "2026-11-02",
+      "channel": "tv_broadcast",
+      "touchpoint": "holiday campaign Best Buy and Target TV section takeover",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "4ced563818",
+      "url_hash": "c7bdebf094fe",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-02",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. Cosmetics added Sanrio's Kuromi to its Glow Up! Roblox experience, with new content planned through the holiday season.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/10-20-2026-050119048",
+      "quote": "Glow Up! is the no. 1 branded makeup game on Roblox, with more than 12 million visits since launch.",
+      "published_date": "2026-10-20",
+      "channel": "social_digital",
+      "touchpoint": "Glow Up! Roblox experience",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "a84eb3b03c",
+      "url_hash": "0e22e526df77",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-10-20",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. launched \"Express your e.l.f.\", its first virtual styling experience on the ZEPETO avatar platform, where players dress avatars in e.l.f.-designed looks and share photos and videos to the ZEPETO feed.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/10-12-2026-050131076",
+      "quote": "Players can also show off their e.l.f. looks by snapping photos and videos against custom e.l.f. backgrounds and sharing them directly to the ZEPETO feed.",
+      "published_date": "2026-10-12",
+      "channel": "social_digital",
+      "touchpoint": "ZEPETO virtual styling experience",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "cb0fb34004",
+      "url_hash": "7e4abfeec0a4",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-10-12",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f.'s first-ever holiday campaign, \"Made to Stand Out\", debuted Nov 2 on e.l.f. digital and social platforms and extends into Best Buy and Target TV aisles.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+      "quote": "The 60-second \"e.l.f. Made to Stand Out\" spot debuts November 2, 2026, across e.l.f. digital and social platforms.",
+      "published_date": "2026-11-02",
+      "channel": "social_digital",
+      "touchpoint": "holiday campaign spot on digital and social platforms",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "ce55a13187",
+      "url_hash": "c7bdebf094fe",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-02",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. Cosmetics runs a live Beauty Squad loyalty program and mobile app where members earn points on retailer purchases by uploading receipts, giving the brand first-party data on sales outside its own site.",
+      "url": "https://www.elfcosmetics.com/blogs/the-elf-word/discover-the-elf-cosmetics-app",
+      "quote": "If you purchase e.l.f. products at retail partners like Target, Ulta, Walmart, or other authorized stores - simply upload your receipt after purchasing any e.l.f. SKIN or cosmetic item to receive points",
+      "published_date": null,
+      "channel": "email_loyalty",
+      "touchpoint": "Beauty Squad loyalty program and mobile app",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": true,
+      "id": "db4175f53b",
+      "url_hash": "86ab79a9f2d4",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-07-27",
+      "effective_date": "2026-07-27",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "On 2026-11-12, e.l.f. Beauty launched \"Dial 0 for Zero Distance\", a tap-to-dial and phone line to the CEO tied to the impact report, with live call-in and town-hall sessions.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-12-2026-050123361",
+      "quote": "Right now, the community can call or click a tap-to-dial online experience to learn more from Amin about e.l.f. Beauty's purpose platform and leave a voicemail",
+      "published_date": "2026-11-12",
+      "channel": "email_loyalty",
+      "touchpoint": "Dial 0 for Zero Distance tap-to-dial hotline",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "3e69db982e",
+      "url_hash": "a86059f6d955",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-12",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. Cosmetics and e.l.f. SKIN are back at the 2026 NWSL Championship for a second year with the Glow For Glory contest, a March to the Match and a Fan Fest presence streamed on Twitch.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-17-2026-050129478",
+      "quote": "All season long, e.l.f. has activated a connected commerce ecosystem across Amazon, TikTok Live, and social platforms like Glow Up!, e.l.f.'s Roblox makeup experience, converting NWSL moments into real-time sales.",
+      "published_date": "2026-11-17",
+      "channel": "events",
+      "touchpoint": "NWSL Championship Fan Fest and Glow For Glory",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "f0f23a877e",
+      "url_hash": "2363e60865f0",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-17",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. took its pickle-themed \"eyes.lips.fairgrounds.\" pop-up to the State Fair of Texas on Oct 9\u201311, following its Minnesota State Fair debut.",
+      "url": "https://www.businesswire.com/news/home/20261008259574/en/e.l.f.-Brands-Is-Bringing-eyes.lips.fairgrounds.-to-the-State-Fair-of-Texas",
+      "quote": "In Minnesota, more than 64K people passed through e.l.f.'s activation and the average guest at the e.l.f. activation spent 8 minutes getting to know how the brand shows up as a different kind of company.",
+      "published_date": "2026-10-08",
+      "channel": "events",
+      "touchpoint": "State Fair of Texas pop-up activation",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "d26301bb6d",
+      "url_hash": "7756f0a9450e",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "live fetch failed (http_403); used web_fetch snapshot",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "tool_fetch_snapshot",
+      "page_date": null,
+      "effective_date": "2026-10-08",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. renewed as Official Back of Shirt Sponsor of Tottenham Hotspur Women for the 2026-27 season.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/10-13-2026-203028619",
+      "quote": "Throughout the 2026-2027 season, Tottenham Hotspur Women and e.l.f. will continue to deliver unique experiences, innovative content and community initiatives.",
+      "published_date": "2026-10-13",
+      "channel": "events",
+      "touchpoint": "Tottenham Hotspur Women sponsorship",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "846d04f8c2",
+      "url_hash": "bb3159863a6d",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-10-13",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. launched e.l.f. POP, its first fragrance and body care line, debuting with a limited-edition holiday Troms\u00f8 collection with packaging designed with two Norwegian artists.",
+      "url": "https://www.elfbeauty.com/articles/e-l-f-expands-into-fragrance-and-body-care-categories-with-launch-of-e-l-f-pop-debuting-limited-edition-holiday-spicy-bundt-nice-collection-inspired-by-tromso-norway",
+      "quote": "e.l.f. partnered with two Norwegian artists to create a holistic, transporting experience across the Troms\u00f8 collection's packaging and supporting campaign. Illustrator Esra R\u00f8ise anchors the collection's visuals across the product line.",
+      "published_date": "2026-10-05",
+      "channel": "packaging",
+      "touchpoint": "e.l.f. POP Troms\u00f8 collection packaging",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "ccec7e3c4f",
+      "url_hash": "de40f60c26ab",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-10-05",
+      "effective_date": "2026-10-05",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f.'s first holiday campaign, \"e.l.f. Made to Stand Out,\" extends into a takeover of the TV sections of Best Buy and Target stores as an in-store retail activation through the holiday season.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+      "quote": "The holiday magic will extend beyond the screen and into the shopping aisle in a takeover of the TV sections of Best Buy and Target stores throughout the holiday gift-giving season.",
+      "published_date": "2026-11-02",
+      "channel": "packaging",
+      "touchpoint": "holiday campaign in-store TV section takeover",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "4ced563818",
+      "url_hash": "c7bdebf094fe",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "duplicate"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-02",
+      "undated": false,
+      "drop_reason": "duplicate",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Well People (an e.l.f. Beauty brand) launched in more than 500 Sprouts Farmers Market stores and on Sprouts.com, placed in the Beauty & Wellness aisle.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-09-2026-050118811",
+      "quote": "The chain-wide rollout brings Well People to more than 500 Sprouts locations, making clean beauty easy to discover as part of the weekly grocery and wellness shop.",
+      "published_date": "2026-11-09",
+      "channel": "retail",
+      "touchpoint": "Sprouts Farmers Market Beauty & Wellness aisle",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "c10a10335e",
+      "url_hash": "6af36a8ee846",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-09",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f.'s first-ever holiday campaign includes an in-store takeover of the TV sections at Best Buy and Target stores for the holiday season.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+      "quote": "The holiday magic will extend beyond the screen and into the shopping aisle in a takeover of the TV sections of Best Buy and Target stores throughout the holiday gift-giving season.",
+      "published_date": "2026-11-02",
+      "channel": "retail",
+      "touchpoint": "Best Buy and Target TV section in-store takeover",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "4ced563818",
+      "url_hash": "c7bdebf094fe",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "duplicate"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-02",
+      "undated": false,
+      "drop_reason": "duplicate",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. launched its first-ever holiday campaign, \"e.l.f. Made to Stand Out,\" a stop-motion spot narrated by Alan Cumming that runs on digital and social platforms and extends into TV sections at Best Buy and Target stores.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-02-2026-050110403",
+      "quote": "The holiday magic will extend beyond the screen and into the shopping aisle in a takeover of the TV sections of Best Buy and Target stores throughout the holiday gift-giving season.",
+      "published_date": "2026-11-02",
+      "channel": "company_wide",
+      "touchpoint": "first-ever holiday campaign",
+      "source_type": "press_wire",
+      "uses_qr_or_links": false,
+      "id": "4ced563818",
+      "url_hash": "c7bdebf094fe",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "duplicate"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-02",
+      "undated": false,
+      "drop_reason": "duplicate",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "e.l.f. Beauty launched \"Dial 0 for Zero Distance,\" a hotline to the CEO, alongside its fifth impact report, with a phone number, tap-to-dial web link, live call-in on Nov 13 and a public Town Hall on Nov 19.",
+      "url": "https://investor.elfbeauty.com/stock-and-financial/press-releases/landing-news/2026/11-12-2026-050123361",
+      "quote": "Right now, the community can call or click a tap-to-dial online experience to learn more from Amin about e.l.f. Beauty's purpose platform and leave a voicemail with feedback on the impact report",
+      "published_date": "2026-11-12",
+      "channel": "company_wide",
+      "touchpoint": "Dial 0 for Zero Distance CEO hotline",
+      "source_type": "press_wire",
+      "uses_qr_or_links": true,
+      "id": "51887a3155",
+      "url_hash": "a86059f6d955",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": null,
+      "effective_date": "2026-11-12",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    }
+  ]
+}

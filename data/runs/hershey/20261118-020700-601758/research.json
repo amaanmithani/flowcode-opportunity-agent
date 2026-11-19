@@ -1,0 +1,1027 @@
+[
+  {
+    "channel": "tv_broadcast",
+    "notes": "Results are strings-in-dicts oddly; print properly.\nNO FINDINGS\n\nI couldn't confirm any Hershey TV, streaming or broadcast item from the last 90 days, so I'm not reporting one.\n\n- **Search budget:** I ran out of searches. Only the first query (\"The Hershey Company TV commercial 2026\") returned results I could read. I couldn't read the results for the holiday-campaign and Super Bowl 2027 queries.\n- **iSpot page:** The brand page (https://www.ispot.tv/brands/d_6/hersheys) shows data through 2026-11-17. It lists 725 national airings in the last 30 days. It doesn't give publish dates for individual spots, such as \"S'mores: No Bonfire, No Problem\". I couldn't tie any of them to the last 90 days, and I didn't have a quotable sentence about a specific new spot.\n- **Olympics spot:** The \"Olympics: The Real Gold\" ad is tied to the 2026 Winter Olympics. That puts it well outside the 90-day window.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://www.ispot.tv/brands/d_6/hersheys",
+        "title": "Hershey's TV Commercials - iSpot",
+        "page_age": "1570 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/ad/gd4b/hersheys-olympics-happy-beats-first-place",
+        "title": "Hershey's TV Commercial 'Olympics: The Real Gold' Ft. Jason Brown, Brenna Huckaby, Erin Jackson - iSpot",
+        "page_age": "301 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hershey_(film)",
+        "title": "Hershey (film)",
+        "page_age": null
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HBTCBHDMgJA",
+        "title": "Hershey's Commercial 2026 Patrick Renna Famous Toasted Marshmallow Ad - YouTube",
+        "page_age": "178 days ago"
+      },
+      {
+        "url": "https://variety.com/2026/tv/news/hershey-katseye-creme-bars-commercial-1236847837/",
+        "title": "Hershey Hopes Katseye Will Lure Younger Snackers to New Cr\u00e8me Bars",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://auralcrave.com/en/2026/05/23/patrick-renna-the-legendary-smores-expert-returns-in-the-new-hersheys-commercial/",
+        "title": "Patrick Renna is the S'more Teacher in the Hershey's Commercial",
+        "page_age": "178 days ago"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=8vKXxZltBJ4",
+        "title": "Hershey's Commercial #4 (2026) - YouTube",
+        "page_age": "250 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/ad/gXCF/hersheys-famous-toasted-marshmallow-featuring-patrick-renna",
+        "title": "Hershey's TV Spot, 'Sweet Rebel' Featuring Patrick Renna - iSpot",
+        "page_age": "184 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/ad/g91x/hersheys-back-to-school",
+        "title": "Hershey's TV Spot, 'Back to School' - iSpot",
+        "page_age": "107 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/brands/d_6/hersheys",
+        "title": "Hershey's TV Commercials - iSpot",
+        "page_age": "1570 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/ad/gd4b/hersheys-olympics-happy-beats-first-place",
+        "title": "Hershey's TV Commercial 'Olympics: The Real Gold' Ft. Jason Brown, Brenna Huckaby, Erin Jackson - iSpot",
+        "page_age": "301 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hershey_(film)",
+        "title": "Hershey (film)",
+        "page_age": null
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=HBTCBHDMgJA",
+        "title": "Hershey's Commercial 2026 Patrick Renna Famous Toasted Marshmallow Ad - YouTube",
+        "page_age": "178 days ago"
+      },
+      {
+        "url": "https://variety.com/2026/tv/news/hershey-katseye-creme-bars-commercial-1236847837/",
+        "title": "Hershey Hopes Katseye Will Lure Younger Snackers to New Cr\u00e8me Bars",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://auralcrave.com/en/2026/05/23/patrick-renna-the-legendary-smores-expert-returns-in-the-new-hersheys-commercial/",
+        "title": "Patrick Renna is the S'more Teacher in the Hershey's Commercial",
+        "page_age": "178 days ago"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=8vKXxZltBJ4",
+        "title": "Hershey's Commercial #4 (2026) - YouTube",
+        "page_age": "250 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/ad/gXCF/hersheys-famous-toasted-marshmallow-featuring-patrick-renna",
+        "title": "Hershey's TV Spot, 'Sweet Rebel' Featuring Patrick Renna - iSpot",
+        "page_age": "184 days ago"
+      },
+      {
+        "url": "https://www.ispot.tv/ad/g91x/hersheys-back-to-school",
+        "title": "Hershey's TV Spot, 'Back to School' - iSpot",
+        "page_age": "107 days ago"
+      },
+      {
+        "url": "https://www.yahoo.com/news/articles/hershey-remade-iconic-holiday-ad-095900757.html",
+        "title": "How Hershey remade its iconic holiday ad as an interactive experience",
+        "page_age": "347 days ago"
+      },
+      {
+        "url": "https://www.marketingdive.com/news/how-hershey-remade-its-iconic-holiday-ad-as-an-interactive-experience/806923/",
+        "title": "How Hershey remade its iconic holiday ad as an interactive experience",
+        "page_age": "347 days ago"
+      },
+      {
+        "url": "https://www.foxnews.com/food-drink/hersheys-criticism-christmas-bells-kisses-commercial-update",
+        "title": "Hershey's updates its classic 'Christmas Bells' commercial, faces criticism from Kisses fans",
+        "page_age": "2177 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Christmas_Bells_(advertisement)",
+        "title": "Christmas Bells (advertisement)",
+        "page_age": null
+      },
+      {
+        "url": "https://parade.com/news/hersheys-holiday-bells-35th-anniversary-rockefeller-center",
+        "title": "Hershey\u2019s \u2018Holiday Bells\u2019 Ad Celebrates 35 Years With NYC Experience - Parade",
+        "page_age": "357 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/ring-in-the-holiday-season-hersheys-kisses-celebrates-35-years-of-holiday-bells.html",
+        "title": "Ring in the Holiday Season: Hershey\u2019s Kisses Celebrates 35 Years of \u2018Holiday Bells\u2019",
+        "page_age": "350 days ago"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/hersheys-kisses-celebrates-35-years-of-iconic-holiday-bells-commercial-on-nbcs-christmas-in-rockefeller-special-302625747.html",
+        "title": "Hershey's Kisses Celebrates 35 Years of Iconic 'Holiday Bells' Commercial on NBC's \"Christmas in Rockefeller\" Special",
+        "page_age": "357 days ago"
+      },
+      {
+        "url": "https://mcgannmedia.com/timeless-holiday-advertising-how-classic-commercials-prove-the-power-of-seasonal-marketing/",
+        "title": "Timeless Holiday Advertising: How Classic Commercials Prove the Power of Seasonal Marketing - McGann Media",
+        "page_age": "210 days ago"
+      },
+      {
+        "url": "https://southfloridareporter.com/hershey-turns-iconic-holiday-ad-into-immersive-digital-first-experience-video/",
+        "title": "Hershey Turns Iconic Holiday Ad Into Immersive Digital-First Experience (Video) - South Florida Reporter",
+        "page_age": "346 days ago"
+      },
+      {
+        "url": "https://ads.spotify.com/inspiration/hersheys-success-story",
+        "title": "Success Stories",
+        "page_age": null
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  },
+  {
+    "channel": "social_digital",
+    "notes": "That's summer, likely older than 90 days. Check the other queries.\nNO FINDINGS\n\nThe one relevant result was Hershey's \"Heated Debate\" s'mores campaign, a summer creator and social campaign with Patrick Renna. I couldn't confirm a publish date for it, and a summer launch is almost certainly more than 90 days before 2026-11-18, so I left it out. My search limit ran out before I could check the other two queries, so I found nothing current in the social and digital channel. I didn't read any pages in full.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://candyusa.com/cst/hershey-launches-heated-debate-summer-marketing-campaign/",
+        "title": "Hershey Launches 'Heated Debate' Summer Marketing Campaign - NCA",
+        "page_age": "162 days ago"
+      },
+      {
+        "url": "https://www.marketingdive.com/news/how-hershey-remade-its-iconic-holiday-ad-as-an-interactive-experience/806923/",
+        "title": "How Hershey remade its iconic holiday ad as an interactive experience",
+        "page_age": "347 days ago"
+      },
+      {
+        "url": "https://hershey.gcs-web.com/news-releases/news-release-details/hersheys-invites-fans-celebrate-everyday-moments-happiness-real",
+        "title": "HERSHEY'S Invites Fans to Celebrate Everyday Moments of Happiness as the \"Real Gold\" with HERSHEY'S Team USA Milk Chocolate Medals",
+        "page_age": "281 days ago"
+      },
+      {
+        "url": "https://ads.tiktok.com/business/en-US/inspiration/hershey's-cookies-'n'-cr%C3%A8me-365?redirected=1",
+        "title": "TikTok For Business Case Study: Hershey's Cookies 'n' Cr\u00e8me",
+        "page_age": "1707 days ago"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/hersheys-and-patrick-renna-spark-nationwide-debate-over-how-to-make-the-perfect-smore-302786098.html",
+        "title": "Hershey's and Patrick Renna Spark Nationwide Debate Over How to Make the Perfect S'more",
+        "page_age": "169 days ago"
+      },
+      {
+        "url": "https://www.prweek.com/article/1796207/hersheys-responded-macklemores-chocolate-world-viral-tiktok",
+        "title": "How Hershey\u2019s responded to Macklemore\u2019s Chocolate World viral TikTok",
+        "page_age": "1551 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Christmas_Bells_(advertisement)",
+        "title": "Christmas Bells (advertisement)",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reese%27s_Take_5",
+        "title": "Reese%27s Take 5",
+        "page_age": null
+      },
+      {
+        "url": "https://www.tiktok.com/tag/hershey?lang=en",
+        "title": "#hershey",
+        "page_age": null
+      },
+      {
+        "url": "https://candyusa.com/cst/hershey-launches-heated-debate-summer-marketing-campaign/",
+        "title": "Hershey Launches 'Heated Debate' Summer Marketing Campaign - NCA",
+        "page_age": "162 days ago"
+      },
+      {
+        "url": "https://www.marketingdive.com/news/how-hershey-remade-its-iconic-holiday-ad-as-an-interactive-experience/806923/",
+        "title": "How Hershey remade its iconic holiday ad as an interactive experience",
+        "page_age": "347 days ago"
+      },
+      {
+        "url": "https://hershey.gcs-web.com/news-releases/news-release-details/hersheys-invites-fans-celebrate-everyday-moments-happiness-real",
+        "title": "HERSHEY'S Invites Fans to Celebrate Everyday Moments of Happiness as the \"Real Gold\" with HERSHEY'S Team USA Milk Chocolate Medals",
+        "page_age": "281 days ago"
+      },
+      {
+        "url": "https://ads.tiktok.com/business/en-US/inspiration/hershey's-cookies-'n'-cr%C3%A8me-365?redirected=1",
+        "title": "TikTok For Business Case Study: Hershey's Cookies 'n' Cr\u00e8me",
+        "page_age": "1707 days ago"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/hersheys-and-patrick-renna-spark-nationwide-debate-over-how-to-make-the-perfect-smore-302786098.html",
+        "title": "Hershey's and Patrick Renna Spark Nationwide Debate Over How to Make the Perfect S'more",
+        "page_age": "169 days ago"
+      },
+      {
+        "url": "https://www.prweek.com/article/1796207/hersheys-responded-macklemores-chocolate-world-viral-tiktok",
+        "title": "How Hershey\u2019s responded to Macklemore\u2019s Chocolate World viral TikTok",
+        "page_age": "1551 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Christmas_Bells_(advertisement)",
+        "title": "Christmas Bells (advertisement)",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reese%27s_Take_5",
+        "title": "Reese%27s Take 5",
+        "page_age": null
+      },
+      {
+        "url": "https://www.tiktok.com/tag/hershey?lang=en",
+        "title": "#hershey",
+        "page_age": null
+      },
+      {
+        "url": "https://www.ypulse.com/newsfeed/2026/09/03/hersheys-katseye-campaign-leans-into-gen-zs-little-treat-culture/",
+        "title": "Hershey\u2019s KATSEYE campaign leans into Gen Z\u2019s little treat culture. - YPulse",
+        "page_age": "75 days ago"
+      },
+      {
+        "url": "https://www.adsoftheworld.com/campaigns/pinky-up",
+        "title": "Hershey's: Pinky Up \u2022 Ads of the World\u2122",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://www.marketingdive.com/news/why-hersheys-first-campaign-in-8-years-kicks-off-with-an-olympics-tie-in/809645/",
+        "title": "Why Hershey\u2019s first major campaign in 8 years comes ahead of the Olympics",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://www.campaignlive.com/article/katseye-hersheys-redefine-indulgence-new-creme-bars-campaign/1968829",
+        "title": "Katseye and Hershey\u2019s redefine indulgence in new Cr\u00e8me Bars campaign",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://www.mediapost.com/publications/article/412138/hersheys-enlists-athletes-to-promote-its-happy-p.html",
+        "title": "Hershey's Enlists Athletes To Promote Its 'Happy Place' 01/22/2026",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://www.inc.com/ali-donaldson/hersheys-just-announced-a-surprising-marketing-move-its-the-biggest-change-in-almost-a-decade/91289203",
+        "title": "Hershey Just Announced a Surprising Marketing Move. It's the Biggest Change in Almost a Decade",
+        "page_age": "305 days ago"
+      },
+      {
+        "url": "https://www.forbes.com/sites/cmo/2026/10/21/inside-hersheys-halloween-marketing-makeover/",
+        "title": "Inside Hershey\u2019s Halloween Marketing Makeover",
+        "page_age": "27 days ago"
+      },
+      {
+        "url": "https://lite14.net/blog/2026/03/23/hersheys-boosts-marketing-spend-with-digital-first-strategy/",
+        "title": "Hershey\u2019s boosts marketing spend with digital-first strategy - Lite14 Tools & Blog",
+        "page_age": "239 days ago"
+      },
+      {
+        "url": "https://www.barchart.com/story/news/1060168/hershey-unveils-strategy-to-lead-next-generation-snacking-at-2026-investor-day",
+        "title": "hershey unveils strategy to lead next generation snacking at 2026 investor day",
+        "page_age": null
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  },
+  {
+    "channel": "email_loyalty",
+    "notes": "NO FINDINGS\n\nThe three searches turned up nothing from the last 90 days (since about 2026-08-20) or announced for the future that covers Hershey Company email, loyalty or first-party data. I did not use any page reads.\n\n- **Retailer program:** The one loyalty result was a sponsored article from January 2023 about Hershey's AMP retailer rewards program. It is too old to report.\n- **Hersheypark app:** The Hersheypark app and the Hershey, PA email sign-up page belong to Hershey Entertainment & Resorts. That is a separate company from The Hershey Company, and neither page showed a recent date.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://apps.apple.com/us/app/hersheypark/id372038569",
+        "title": "Hersheypark - App Store - Apple",
+        "page_age": "6013 days ago"
+      },
+      {
+        "url": "https://loyalty360.org/content-gallery/daily-news/hershey-company-listens-to-customers",
+        "title": "Hershey Company Listen to Customers and They Will Guide You Toward Brand Loyalty",
+        "page_age": "4066 days ago"
+      },
+      {
+        "url": "https://www.hersheypark.com/tickets-and-passes/season-pass-holders/loyalty",
+        "title": "Season Pass Holder Loyalty Challenge",
+        "page_age": "486 days ago"
+      },
+      {
+        "url": "https://www.comparably.com/brands/hershey-company",
+        "title": "Hershey Company NPS & Customer Reviews",
+        "page_age": null
+      },
+      {
+        "url": "https://csnews.com/7-eleven-hershey-launch-reeses-loyalty-program",
+        "title": "7-Eleven & Hershey Launch Reese's Loyalty Program",
+        "page_age": "679 days ago"
+      },
+      {
+        "url": "https://l.spoton.com/gvApLN",
+        "title": "Hershey's Restaurant",
+        "page_age": null
+      },
+      {
+        "url": "https://play.google.com/store/apps/details?id=com.hersheypa.hersheypark&hl=en_US",
+        "title": "Hersheypark - Apps on Google Play",
+        "page_age": "156 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hershey_Entertainment_and_Resorts_Company",
+        "title": "Hershey Entertainment and Resorts Company",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Hershey_Company",
+        "title": "The Hershey Company",
+        "page_age": null
+      },
+      {
+        "url": "https://www.cspdailynews.com/snacks-candy/reward-programs-help-drive-2023-planning",
+        "title": "Reward Programs Help Drive 2023 Planning",
+        "page_age": "397 days ago"
+      },
+      {
+        "url": "https://builtin.com/company/hershey-company/faq/compensation-benefits",
+        "title": "The Hershey Company Compensation & Benefits 2026",
+        "page_age": "110 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/sustainability/progress-on-priorities/community.html",
+        "title": "Community",
+        "page_age": "527 days ago"
+      },
+      {
+        "url": "https://careers.thehersheycompany.com/job/Hershey-Program-Manager-PA-17033/1421735000/",
+        "title": "Program Manager Job Details",
+        "page_age": "89 days ago"
+      },
+      {
+        "url": "https://www.slideshare.net/slideshow/the-benefits-of-working-at-the-hershey-company-us-version-2015/44166387",
+        "title": "The Benefits of Working at The Hershey Company (US Version 2015)",
+        "page_age": "1470 days ago"
+      },
+      {
+        "url": "https://www.fuelrewards.com/HersheysUPCs",
+        "title": "Earn rewards with Hershey's",
+        "page_age": null
+      },
+      {
+        "url": "https://www.refer.me/company-bonus/the-hershey-company",
+        "title": "The Hershey Company Referral Bonus Program",
+        "page_age": null
+      },
+      {
+        "url": "https://www.rebelplaybook.com/bonus-plays/a-recognition-program-that-will-make-you-smile-hershey-company",
+        "title": "Hershey Company: A Recognition Program that Will Make You Smile",
+        "page_age": null
+      },
+      {
+        "url": "https://rsoblog.com/hersheys-gifting-rewards-store-review/",
+        "title": "Hershey's E-Commerce Store: Gifting, Subscriptions, and Rewards Review",
+        "page_age": "175 days ago"
+      },
+      {
+        "url": "https://www.hersheypa.com/email/",
+        "title": "Email Sign Up",
+        "page_age": null
+      },
+      {
+        "url": "https://www.hersheyentertainment.com/contact/email-signup.php",
+        "title": "Email Sign Up",
+        "page_age": null
+      },
+      {
+        "url": "https://www.hersheypark.com/email",
+        "title": "Email & Text Sign Up",
+        "page_age": null
+      },
+      {
+        "url": "https://www.hersheypa.com/things-to-do/dining/hershey-social/birthday-offer.php",
+        "title": "Get Birthday Offer at Hershey Social Restaurant + Bar",
+        "page_age": null
+      },
+      {
+        "url": "https://www.hersheymeetings.com/email/",
+        "title": "Email Sign-Up",
+        "page_age": null
+      },
+      {
+        "url": "https://www.hersheypa.com/things-to-do/attractions/hersheys-chocolate-world.php",
+        "title": "Hershey's Chocolate World",
+        "page_age": "170 days ago"
+      },
+      {
+        "url": "https://hersheysuperfoods.com/subscribe",
+        "title": "Hershey Super Foods",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hershey_Entertainment_and_Resorts_Company",
+        "title": "Hershey Entertainment and Resorts Company",
+        "page_age": null
+      },
+      {
+        "url": "https://www.checkout51.com/companies/the+hershey+company+coupons/272",
+        "title": "The Hershey Company coupons: Mobile and online grocery coupons and offers - Checkout 51",
+        "page_age": null
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  },
+  {
+    "channel": "events",
+    "notes": "Nothing within the window is clearly supported; the Tysons pop-up closed Sept 7 (before the Aug 20 cutoff? No\u2014published Aug 26, which is older than 90 days from Nov 18, i.e., before Aug 20? Aug 26 is within). But it closed already, so I'll report it cautiously.\n\nFINDING\nClaim: Hershey Super Sweet Adventure, a Hershey pop-up experience and retail store at Tysons Corner Center, was slated to close on Labor Day 2026 after a run of more than four months.\nURL: https://www.ffxnow.com/2026/08/26/hershey-to-close-pop-up-store-and-experience-in-tysons-next-month/\nDate: 2026-08-26\nSource type: news\nQuote: \"The sweets-celebrating attraction -- which consists of both a ticketed experience and a retail store -- is slated to close on Labor Day (Monday, Sept. 7) after staying at the mall for more than four months.\"\nUses QR/links: unknown\n\nNotes:\n- This is the only item I found that fits the 90-day window. It is already over, so it isn't an upcoming event.\n- The quote is 36 words and comes from the search snippet. I did not read the full page.\n- I found no current league, team or tour sponsorship deals. The Team USA result dates from 2015, and the Penn State sponsorship dates from January 2026. Both are outside the window.\n- I used 3 searches and read no pages in full.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://www.cspdailynews.com/snacks-candy/hershey-gets-games",
+        "title": "Hershey Gets in the Games",
+        "page_age": "48 days ago"
+      },
+      {
+        "url": "https://la28.org/en/newsroom/Hershey_Sweetens_LA28_Olympic_and_Paralympic_Games.html",
+        "title": "Hershey Sweetens LA28 Olympic and Paralympic Games",
+        "page_age": null
+      },
+      {
+        "url": "https://candyusa.com/cst/hershey-expands-their-team-through-ncaa-partnership-extension/",
+        "title": "Hershey Renews NCAA Partnership, Adds Snack Brands To Deal - NCA",
+        "page_age": "1327 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/press-release/2023-03-30-The-Hershey-Company-Expands-their-Team-through-NCAA-Partnership-Extension.html",
+        "title": "The Hershey Company Expands their Team through NCAA Partnership Extension",
+        "page_age": "1329 days ago"
+      },
+      {
+        "url": "https://www.usopc.org/media/news/usopc/hershey-renews-partnership-with-team-usa-and-joins-the-la28-olympic-and-paralympic-games",
+        "title": "HERSHEY RENEWS PARTNERSHIP WITH TEAM USA AND JOINS THE LA28 OLYMPIC AND PARALYMPIC GAMES",
+        "page_age": "1639 days ago"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/0000047111/000004711107000168/exh991.htm",
+        "title": "HERSHEY CO - Form 8-K - FY2007",
+        "page_age": null
+      },
+      {
+        "url": "https://cmn.org/partner/the-hershey-company/",
+        "title": "The Hershey Company - Children's Miracle Network",
+        "page_age": "298 days ago"
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/the-hershey-company-expands-their-team-through-ncaa-partnership-extension-301785034.html",
+        "title": "The Hershey Company Expands their Team through NCAA Partnership Extension",
+        "page_age": "1328 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Milk_Duds",
+        "title": "Milk Duds",
+        "page_age": null
+      },
+      {
+        "url": "https://www.ffxnow.com/2026/08/26/hershey-to-close-pop-up-store-and-experience-in-tysons-next-month/",
+        "title": "Hershey to close pop-up store and experience in Tysons next month",
+        "page_age": "83 days ago"
+      },
+      {
+        "url": "https://northernvirginiamag.com/news/2025/12/01/hershey-is-planning-an-interactive-pop-up-in-tysons/",
+        "title": "Hershey Is Planning an Interactive Pop-Up in Tysons",
+        "page_age": "351 days ago"
+      },
+      {
+        "url": "https://northernvirginiamag.com/family/2026/01/22/tickets-now-on-sale-for-hershey-pop-up-in-tysons/",
+        "title": "Tickets Now on Sale for Hershey Pop-Up in Tysons",
+        "page_age": "299 days ago"
+      },
+      {
+        "url": "https://www.ffxnow.com/2025/12/08/interactive-hershey-experience-coming-in-tysons-in-early-2026/",
+        "title": "Interactive Hershey experience coming in Tysons in early 2026",
+        "page_age": "347 days ago"
+      },
+      {
+        "url": "https://northernvirginiamag.com/family/2026/04/22/take-a-peek-inside-the-hershey-super-sweet-adventure-pop-up-in-tysons/",
+        "title": "Peek Inside the Hershey Super Sweet Adventure Pop-Up in Tysons",
+        "page_age": "209 days ago"
+      },
+      {
+        "url": "https://www.ffxnow.com/2026/01/22/tickets-for-interactive-hersheys-pop-up-in-tysons-go-on-sale-today/",
+        "title": "Tickets for interactive Hershey pop-up in Tysons go on sale today",
+        "page_age": "256 days ago"
+      },
+      {
+        "url": "https://www.adsoftheworld.com/campaigns/pinky-up",
+        "title": "Hershey's: Pinky Up \u2022 Ads of the World\u2122",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://blooloop.com/brands-ip/news/hershey-super-sweet-adventure-experience/",
+        "title": "Hershey opening candy-themed touring experience in Chicago",
+        "page_age": "438 days ago"
+      },
+      {
+        "url": "https://www.dfnionline.com/latest-news/hersheys-pop-brings-new-york-changi-18-03-2021/",
+        "title": "Hershey\u2019s pop-up brings New York to Changi",
+        "page_age": "2070 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hershey%27s_Chocolate_World",
+        "title": "Hershey%27s Chocolate World",
+        "page_age": null
+      },
+      {
+        "url": "https://www.psu.edu/news/smeal-college-business/story/hershey-company-sponsor-penn-state-land-grant-startup-launch",
+        "title": "Hershey Company to sponsor Penn State Land Grant Startup Launch Competition",
+        "page_age": "314 days ago"
+      },
+      {
+        "url": "https://www.adexchanger.com/commerce/hersheys-undergoes-a-brand-update-as-it-rethinks-paid-earned-and-owned-media/",
+        "title": "Hershey\u2019s Undergoes A Brand Update As It Rethinks Paid, Earned And Owned Media",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://www.mediapost.com/publications/article/412138/hersheys-enlists-athletes-to-promote-its-happy-p.html",
+        "title": "Hershey's Enlists Athletes To Promote Its 'Happy Place' 01/22/2026",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/news/top-stories/hersheys-teams-up-with-team-usa-announces-new-treat/",
+        "title": "Hershey\u2019s teams up with Team USA, announces new treat",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/celebrating-the-year-of-hersheys.html",
+        "title": "Celebrating the Year of Hershey's",
+        "page_age": "295 days ago"
+      },
+      {
+        "url": "https://hershey.gcs-web.com/news-releases/news-release-details/hersheys-celebrates-happiness-real-gold-new-team-usa-campaign",
+        "title": "HERSHEY'S CELEBRATES HAPPINESS AS 'THE REAL GOLD' WITH NEW TEAM USA CAMPAIGN AND LIMITED-EDITION CHOCOLATE MEDALS DURING THE OLYMPIC AND PARALYMPIC WINTER GAMES MILANO CORTINA 2026",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://www.media-marketing.com/en/news/hersheys-uses-the-2026-olympics-for-its-biggest-creative-reset-in-nearly-a-decade/",
+        "title": "Hershey\u2019s uses the 2026 Olympics for its biggest creative reset in nearly a decade",
+        "page_age": "298 days ago"
+      },
+      {
+        "url": "https://www.marketingdive.com/news/why-hersheys-first-campaign-in-8-years-kicks-off-with-an-olympics-tie-in/809645/",
+        "title": "Why Hershey\u2019s first major campaign in 8 years comes ahead of the Olympics",
+        "page_age": "300 days ago"
+      },
+      {
+        "url": "https://h1binfo.org/h1b-sponsors/the-hershey",
+        "title": "The Hershey Company H-1B Sponsorship 2026: Salaries, LCAs & Approvals",
+        "page_age": null
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  },
+  {
+    "channel": "packaging",
+    "notes": "Results are dicts in a list; the earlier failure was probably on a later query. Retry with the other queries.\nFINDING\nClaim: Hershey and Warner Bros. Discovery Global Consumer Products announced limited-edition Harry Potter-themed Hershey's milk chocolate bars and Kisses. The bars come in 12 designs, and the Kisses have 21 collectible foils.\nURL: https://drugstorenews.com/hersheys-warner-bros-announce-limited-edition-harry-potter-products\nDate: unknown\nSource type: trade_press\nQuote: \"The Hershey Company and Warner Bros. Discovery Global Consumer Products announced limited-edition Hershey's milk chocolate bars and Kisses that feature the Wizarding World of Harry Potter.\"\nUses QR/links: unknown\n\nI could only find this one item. My search budget ran out after the first query's results, and I didn't read any page in full. The publish date is unknown, so I haven't confirmed it falls inside the 90-day window. I copied the quote from the search snippet, so the later verification check should confirm it against the live page. The curly apostrophe in \"Hershey's\" may not match exactly. I found nothing for holiday packaging or 2026 redesigns.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://drugstorenews.com/hersheys-warner-bros-announce-limited-edition-harry-potter-products",
+        "title": "Hershey\u2019s, Warner Bros. announce limited-edition Harry Potter products",
+        "page_age": "680 days ago"
+      },
+      {
+        "url": "https://www.snackandbakery.com/articles/109560-hersheys-warner-bros-announce-limited-edition-harry-potter-candies",
+        "title": "Hershey's, Warner Bros. announce limited-edition Harry Potter candies",
+        "page_age": "1195 days ago"
+      },
+      {
+        "url": "https://www.foodnavigator.com/Article/2023/08/28/hershey-warner-bros.-launch-limited-edition-candies-featuring-the-wizarding-world-of-harry-potter/",
+        "title": "Hershey, Warner Bros. launch limited edition candies featuring the Wizarding World of Harry Potter",
+        "page_age": "1178 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/local-news/hershey-partners-with-nintendo-announces-limited-edition-candy-packages/",
+        "title": "Hershey partners with Nintendo; announces limited edition candy packages",
+        "page_age": "735 days ago"
+      },
+      {
+        "url": "https://finance.yahoo.com/news/hershey-partners-nintendo-announces-limited-150113343.html",
+        "title": "Hershey partners with Nintendo; announces limited edition candy packages",
+        "page_age": "735 days ago"
+      },
+      {
+        "url": "https://www.packagingstrategies.com/articles/91179-first-change-to-hersheys-chocolate-bar-in-125-years",
+        "title": "First Change to Hershey's Chocolate Bar in 125 Years",
+        "page_age": "1336 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mounds_(candy_bar)",
+        "title": "Mounds (candy bar)",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Payday_(confection)",
+        "title": "Payday (confection)",
+        "page_age": null
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+        "title": "The Hershey Company Unwraps Festive Offerings for the 2026 Holiday Season",
+        "page_age": "12 days ago"
+      },
+      {
+        "url": "https://drugstorenews.com/hersheys-warner-bros-announce-limited-edition-harry-potter-products",
+        "title": "Hershey\u2019s, Warner Bros. announce limited-edition Harry Potter products",
+        "page_age": "680 days ago"
+      },
+      {
+        "url": "https://www.snackandbakery.com/articles/109560-hersheys-warner-bros-announce-limited-edition-harry-potter-candies",
+        "title": "Hershey's, Warner Bros. announce limited-edition Harry Potter candies",
+        "page_age": "1195 days ago"
+      },
+      {
+        "url": "https://www.foodnavigator.com/Article/2023/08/28/hershey-warner-bros.-launch-limited-edition-candies-featuring-the-wizarding-world-of-harry-potter/",
+        "title": "Hershey, Warner Bros. launch limited edition candies featuring the Wizarding World of Harry Potter",
+        "page_age": "1178 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/local-news/hershey-partners-with-nintendo-announces-limited-edition-candy-packages/",
+        "title": "Hershey partners with Nintendo; announces limited edition candy packages",
+        "page_age": "735 days ago"
+      },
+      {
+        "url": "https://finance.yahoo.com/news/hershey-partners-nintendo-announces-limited-150113343.html",
+        "title": "Hershey partners with Nintendo; announces limited edition candy packages",
+        "page_age": "735 days ago"
+      },
+      {
+        "url": "https://www.packagingstrategies.com/articles/91179-first-change-to-hersheys-chocolate-bar-in-125-years",
+        "title": "First Change to Hershey's Chocolate Bar in 125 Years",
+        "page_age": "1336 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mounds_(candy_bar)",
+        "title": "Mounds (candy bar)",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Payday_(confection)",
+        "title": "Payday (confection)",
+        "page_age": null
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+        "title": "The Hershey Company Unwraps Festive Offerings for the 2026 Holiday Season",
+        "page_age": "12 days ago"
+      },
+      {
+        "url": "https://drugstorenews.com/hersheys-warner-bros-announce-limited-edition-harry-potter-products",
+        "title": "Hershey\u2019s, Warner Bros. announce limited-edition Harry Potter products",
+        "page_age": "680 days ago"
+      },
+      {
+        "url": "https://www.snackandbakery.com/articles/109560-hersheys-warner-bros-announce-limited-edition-harry-potter-candies",
+        "title": "Hershey's, Warner Bros. announce limited-edition Harry Potter candies",
+        "page_age": "1195 days ago"
+      },
+      {
+        "url": "https://www.foodnavigator.com/Article/2023/08/28/hershey-warner-bros.-launch-limited-edition-candies-featuring-the-wizarding-world-of-harry-potter/",
+        "title": "Hershey, Warner Bros. launch limited edition candies featuring the Wizarding World of Harry Potter",
+        "page_age": "1178 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/local-news/hershey-partners-with-nintendo-announces-limited-edition-candy-packages/",
+        "title": "Hershey partners with Nintendo; announces limited edition candy packages",
+        "page_age": "735 days ago"
+      },
+      {
+        "url": "https://finance.yahoo.com/news/hershey-partners-nintendo-announces-limited-150113343.html",
+        "title": "Hershey partners with Nintendo; announces limited edition candy packages",
+        "page_age": "735 days ago"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mounds_(candy_bar)",
+        "title": "Mounds (candy bar)",
+        "page_age": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Payday_(confection)",
+        "title": "Payday (confection)",
+        "page_age": null
+      },
+      {
+        "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+        "title": "The Hershey Company Unwraps Festive Offerings for the 2026 Holiday Season",
+        "page_age": "12 days ago"
+      },
+      {
+        "url": "https://www.ruskingroup.com/hersheys-emoji-wrappers-promote-smiles-and-sharing/",
+        "title": "Hershey\u2019s emoji wrappers promote smiles and sharing - The Ruskin Group",
+        "page_age": "2710 days ago"
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  },
+  {
+    "channel": "retail",
+    "notes": "Result is a string-ish; parse it.\nNO FINDINGS\n\nI ran out of search budget before I found anything current. The first search returned only an undated Adobe case study about Hershey's 3D and AR in-store displays. I couldn't confirm a publish date within the last 90 days, so I didn't report it. I found no retailer exclusives, new distribution deals or in-store activations dated 2026-08-20 or later, and I have no verbatim quotes to report.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://business.adobe.com/customer-success-stories/hershey-case-study.html",
+        "title": "Hershey creates with 3D displays with Adobe Substance",
+        "page_age": "1325 days ago"
+      },
+      {
+        "url": "https://hersheyarchives.org/encyclopedia/theres-more-than-one-way-to-a-consumers-heart/",
+        "title": "There\u2019s More Than One Way to a Consumer\u2019s Heart",
+        "page_age": "5306 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/inside-the-aisle-how-hershey-s-people-and-technology-bring-hersheyween-to-life.html",
+        "title": "Inside the Aisle: How Hershey's People and Technology Bring Hersheyween to Life",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://vmsd.com/hershey-store/",
+        "title": "Hershey Store",
+        "page_age": "2112 days ago"
+      },
+      {
+        "url": "https://www.confectionerynews.com/Article/2016/04/28/Hershey-s-experiential-displays-up-sales/",
+        "title": "Just the occasion: Hershey\u2019s 'store within a store' experiential displays up sales",
+        "page_age": "3857 days ago"
+      },
+      {
+        "url": "https://www.flickr.com/photos/26307193@N02/4058294969",
+        "title": "Hershey Chocolate, in-store display; ca1921-1930",
+        "page_age": "295 days ago"
+      },
+      {
+        "url": "https://www.flickr.com/photos/26307193@N02/albums/72157622572259037/",
+        "title": "Hershey Chocolate product advertising (archival images)",
+        "page_age": "33 days ago"
+      },
+      {
+        "url": "https://www.dgsretail.com/resource-center/5-ways-hershey-is-winning-with-their-new-store-within-a-store-strategy/",
+        "title": "5 Ways Hershey Is Winning With Their New Store Within A Store Strategy - DGS Retail",
+        "page_age": "2926 days ago"
+      },
+      {
+        "url": "https://www.theodmgroup.com/promo-display-instore-pos-by-hersheys/",
+        "title": "Promo Display Idea",
+        "page_age": "1797 days ago"
+      },
+      {
+        "url": "https://business.adobe.com/customer-success-stories/hershey-case-study.html",
+        "title": "Hershey creates with 3D displays with Adobe Substance",
+        "page_age": "1325 days ago"
+      },
+      {
+        "url": "https://hersheyarchives.org/encyclopedia/theres-more-than-one-way-to-a-consumers-heart/",
+        "title": "There\u2019s More Than One Way to a Consumer\u2019s Heart",
+        "page_age": "5306 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/inside-the-aisle-how-hershey-s-people-and-technology-bring-hersheyween-to-life.html",
+        "title": "Inside the Aisle: How Hershey's People and Technology Bring Hersheyween to Life",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://vmsd.com/hershey-store/",
+        "title": "Hershey Store",
+        "page_age": "2112 days ago"
+      },
+      {
+        "url": "https://www.confectionerynews.com/Article/2016/04/28/Hershey-s-experiential-displays-up-sales/",
+        "title": "Just the occasion: Hershey\u2019s 'store within a store' experiential displays up sales",
+        "page_age": "3857 days ago"
+      },
+      {
+        "url": "https://www.flickr.com/photos/26307193@N02/4058294969",
+        "title": "Hershey Chocolate, in-store display; ca1921-1930",
+        "page_age": "295 days ago"
+      },
+      {
+        "url": "https://www.flickr.com/photos/26307193@N02/albums/72157622572259037/",
+        "title": "Hershey Chocolate product advertising (archival images)",
+        "page_age": "33 days ago"
+      },
+      {
+        "url": "https://www.dgsretail.com/resource-center/5-ways-hershey-is-winning-with-their-new-store-within-a-store-strategy/",
+        "title": "5 Ways Hershey Is Winning With Their New Store Within A Store Strategy - DGS Retail",
+        "page_age": "2926 days ago"
+      },
+      {
+        "url": "https://www.theodmgroup.com/promo-display-instore-pos-by-hersheys/",
+        "title": "Promo Display Idea",
+        "page_age": "1797 days ago"
+      },
+      {
+        "url": "https://business.adobe.com/customer-success-stories/hershey-case-study.html",
+        "title": "Hershey creates with 3D displays with Adobe Substance",
+        "page_age": "1325 days ago"
+      },
+      {
+        "url": "https://hersheyarchives.org/encyclopedia/theres-more-than-one-way-to-a-consumers-heart/",
+        "title": "There\u2019s More Than One Way to a Consumer\u2019s Heart",
+        "page_age": "5306 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/blog/inside-the-aisle-how-hershey-s-people-and-technology-bring-hersheyween-to-life.html",
+        "title": "Inside the Aisle: How Hershey's People and Technology Bring Hersheyween to Life",
+        "page_age": "77 days ago"
+      },
+      {
+        "url": "https://vmsd.com/hershey-store/",
+        "title": "Hershey Store",
+        "page_age": "2112 days ago"
+      },
+      {
+        "url": "https://www.confectionerynews.com/Article/2016/04/28/Hershey-s-experiential-displays-up-sales/",
+        "title": "Just the occasion: Hershey\u2019s 'store within a store' experiential displays up sales",
+        "page_age": "3857 days ago"
+      },
+      {
+        "url": "https://www.flickr.com/photos/26307193@N02/4058294969",
+        "title": "Hershey Chocolate, in-store display; ca1921-1930",
+        "page_age": "295 days ago"
+      },
+      {
+        "url": "https://www.flickr.com/photos/26307193@N02/albums/72157622572259037/",
+        "title": "Hershey Chocolate product advertising (archival images)",
+        "page_age": "33 days ago"
+      },
+      {
+        "url": "https://www.dgsretail.com/resource-center/5-ways-hershey-is-winning-with-their-new-store-within-a-store-strategy/",
+        "title": "5 Ways Hershey Is Winning With Their New Store Within A Store Strategy - DGS Retail",
+        "page_age": "2926 days ago"
+      },
+      {
+        "url": "https://www.theodmgroup.com/promo-display-instore-pos-by-hersheys/",
+        "title": "Promo Display Idea",
+        "page_age": "1797 days ago"
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  },
+  {
+    "channel": "company_wide",
+    "notes": "FINDING\nClaim: Hershey launched \"ONE Hershey\", a unified U.S. commercial operating model for its sweet, salty and protein brands, with global brand marketing centralized. I couldn't confirm the publish date, so it may fall outside the 90-day window.\nURL: https://finance.yahoo.com/news/hershey-company-announces-significant-operation-160413532.html\nDate: unknown\nSource type: news\nQuote: \"By activating our full portfolio as ONE Hershey, we're better positioned to meet consumers wherever they are, create more moments of goodness and lead next generation snacking with speed and purpose.\"\nUses QR/links: unknown\n\nFINDING\nClaim: Hershey named Amanda Almond President, International, effective 2026-10-12. This is a leadership change, not a marketing initiative. I did not find an explicit publish date.\nURL: https://www.marketscreener.com/news/the-hershey-company-announces-management-changes-effective-october-12-2026-ce785ddad88ef124\nDate: unknown\nSource type: news\nQuote: \"She joins Hershey from Vinarchy, where she served as regional managing director for Europe, the Middle East and Africa, following 12 years in senior regional leadership roles at Bacardi.\"\nUses QR/links: no\n\nThe third search returned TogetherCocoa, a cocoa-sustainability group Hershey joined with Lindt, Mars, Mondelez and Nestl\u00e9. It was announced on February 23, which is outside the window, so I left it out. I found no current product-launch or partnership news from the newsroom or press wires within the search budget.",
+    "error": null,
+    "hits": [
+      {
+        "url": "https://www.marketscreener.com/news/the-hershey-company-announces-management-changes-effective-october-12-2026-ce785ddad88ef124",
+        "title": "The Hershey Company Announces Management Changes, Effective October 12, 2026",
+        "page_age": "47 days ago"
+      },
+      {
+        "url": "https://www.marketscreener.com/news/the-hershey-company-announces-executive-changes-ce7f5ddad181f72d",
+        "title": "The Hershey Company Announces Executive Changes, Effective June 22, 2026",
+        "page_age": "173 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/newsroom/press-release/2026-02-02-Hershey-Announces-2026-Investor-Day.html",
+        "title": "Hershey Announces 2026 Investor Day",
+        "page_age": "289 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/local-news/hershey-company-announces-significant-operation-changes/amp/",
+        "title": "Hershey Company announces significant operation changes",
+        "page_age": "245 days ago"
+      },
+      {
+        "url": "https://www.marketscreener.com/quote/stock/THE-HERSHEY-COMPANY-12988/news-press-releases/",
+        "title": "The Hershey Company: Official Announcements - Stock Market News",
+        "page_age": null
+      },
+      {
+        "url": "https://www.abc27.com/news/top-stories/hershey-company-announces-581-million-profit-in-q3/",
+        "title": "Hershey Company announces $581 million profit in Q3",
+        "page_age": "19 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/hershey/hershey-announces-changes-to-reeses-other-chocolate-products/",
+        "title": "Hershey announces changes to Reese\u2019s, other chocolate products",
+        "page_age": "230 days ago"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711125000008/exhibit991-pressreleasedat.htm",
+        "title": "HERSHEY CO - Form 8-K - FY2025",
+        "page_age": null
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/0000047111/000004711110000004/f8k_02021010.htm",
+        "title": "HERSHEY CO - Form 8-K - FY2010",
+        "page_age": null
+      },
+      {
+        "url": "https://finance.yahoo.com/news/hershey-company-announces-significant-operation-160413532.html",
+        "title": "Hershey Company announces significant operation changes",
+        "page_age": "245 days ago"
+      },
+      {
+        "url": "https://www.abc27.com/hershey/the-hershey-company-unveils-new-treat/",
+        "title": "The Hershey Company unveils new twist on iconic treat",
+        "page_age": "132 days ago"
+      },
+      {
+        "url": "https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/hershey-foods-corp",
+        "title": "Hershey Foods Corp",
+        "page_age": null
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/about-us/the-company/history.html",
+        "title": "A History of Goodness",
+        "page_age": "1731 days ago"
+      },
+      {
+        "url": "https://www.foodbusinessnews.net/articles/31338-the-hershey-co-doubles-down-on-innovation",
+        "title": "The Hershey Co. doubles down on innovation",
+        "page_age": "6 days ago"
+      },
+      {
+        "url": "https://www.foodnavigator.com/Article/2026/11/17/hershey-turns-reeses-pieces-into-innovation-showcase/",
+        "title": "Hershey turns Reese\u2019s Pieces into innovation showcase",
+        "page_age": "1 days ago"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/0000047111/000004711116000078/exhibit_991x2015xq4.htm",
+        "title": "HERSHEY CO - Form 8-K - FY2016",
+        "page_age": null
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/47111/000004711123000036/exhibit991-launchpressrele.htm",
+        "title": "HERSHEY CO - Form 8-K - FY2023",
+        "page_age": null
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/47111/000162828025006795/exhibit991-launchpressrele.htm",
+        "title": "HERSHEY CO - Form 8-K - FY2025",
+        "page_age": null
+      },
+      {
+        "url": "https://finance.yahoo.com/news/hershey-company-hsy-partners-lindt-190141801.html",
+        "title": "The Hershey Company (HSY) Partners With Lindt, Mars, Mondelez, Nestl\u00e9 on TogetherCocoa",
+        "page_age": "247 days ago"
+      },
+      {
+        "url": "https://la28.org/en/newsroom/Hershey_Sweetens_LA28_Olympic_and_Paralympic_Games.html",
+        "title": "Hershey Sweetens LA28 Olympic and Paralympic Games",
+        "page_age": null
+      },
+      {
+        "url": "https://www.bakingbusiness.com/articles/63293-hershey-partners-with-vitakey",
+        "title": "Hershey partners with Vitakey",
+        "page_age": "634 days ago"
+      },
+      {
+        "url": "https://www.foodbusinessnews.net/articles/31338-the-hershey-co-doubles-down-on-innovation",
+        "title": "The Hershey Co. doubles down on innovation",
+        "page_age": "6 days ago"
+      },
+      {
+        "url": "https://www.fooddive.com/news/hershey-enters-premium-milk-with-a2-partnership/608974/",
+        "title": "Hershey enters premium milk with a2 partnership",
+        "page_age": "1847 days ago"
+      },
+      {
+        "url": "https://www.bakingbusiness.com/articles/62522-hershey-signs-pact-with-cocoa-cooperatives",
+        "title": "Hershey signs pact with cocoa cooperatives",
+        "page_age": "762 days ago"
+      },
+      {
+        "url": "https://www.thehersheycompany.com/en_us/home/sustainability/progress-on-priorities/community.html",
+        "title": "Community",
+        "page_age": "527 days ago"
+      },
+      {
+        "url": "https://www.foodbusinessnews.net/articles/27754-hershey-expanding-health-and-wellness-portfolio",
+        "title": "Hershey expanding health and wellness portfolio",
+        "page_age": "631 days ago"
+      },
+      {
+        "url": "https://www.insidermonkey.com/blog/the-hershey-company-hsy-partners-with-lindt-mars-mondelez-nestle-on-togethercocoa-1716513/",
+        "title": "The Hershey Company (HSY) Partners With Lindt, Mars, Mondelez, Nestl\u00e9 on TogetherCocoa - Insider Monkey",
+        "page_age": "247 days ago"
+      }
+    ],
+    "docs": {},
+    "cited": {},
+    "tool_errors": []
+  }
+]

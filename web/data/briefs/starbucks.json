@@ -1,0 +1,1044 @@
+{
+  "slug": "starbucks",
+  "input": "Starbucks",
+  "run_id": "20261118-190317-575592",
+  "generated_at": "2026-11-18T19:05:03",
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  },
+  "resolution": {
+    "official_name": "Starbucks Corporation",
+    "domain": "starbucks.com",
+    "newsroom_url": "https://about.starbucks.com/press/press-releases/",
+    "parent_company": null,
+    "category": "coffeehouse chain / food & beverage retail",
+    "sub_brands": [
+      "Starbucks Coffee",
+      "Teavana",
+      "Ethos",
+      "Starbucks Reserve",
+      "Princi",
+      "Evolution Fresh",
+      "Starbucks Roastery",
+      "Frappuccino",
+      "Starbucks Refreshers",
+      "Starbucks VIA"
+    ],
+    "one_liner": "The world's largest coffeehouse chain, with more than 40,000 stores, selling coffee, tea, food and merchandise through company-operated and licensed stores."
+  },
+  "stats": {
+    "signals_found": 12,
+    "signals_verified": 7,
+    "signals_dropped": 5,
+    "drop_reasons": {
+      "fetch_failed": 4,
+      "quote_not_found": 1
+    },
+    "new_signals": 7,
+    "carried_over": 0,
+    "carried_over_verified": 0,
+    "opportunities": 4,
+    "per_channel": {
+      "tv_broadcast": {
+        "found": 1,
+        "verified": 1
+      },
+      "social_digital": {
+        "found": 0,
+        "verified": 0
+      },
+      "email_loyalty": {
+        "found": 1,
+        "verified": 1
+      },
+      "events": {
+        "found": 2,
+        "verified": 2
+      },
+      "packaging": {
+        "found": 3,
+        "verified": 0
+      },
+      "retail": {
+        "found": 2,
+        "verified": 0
+      },
+      "company_wide": {
+        "found": 3,
+        "verified": 3
+      }
+    },
+    "cost_usd": 0.9877,
+    "tokens_in": 236779,
+    "tokens_out": 17273,
+    "cache_read_tokens": 250669,
+    "web_searches": 17,
+    "web_fetches": 14,
+    "llm_calls": 12,
+    "elapsed_s": 106.3,
+    "run_cost_usd": 0.9877,
+    "total_cost_usd": 0.9877,
+    "total_web_searches": 17,
+    "stage_costs": {
+      "resolve": {
+        "cost_usd": 0.048,
+        "searches": 1,
+        "fetches": 0
+      },
+      "research": {
+        "cost_usd": 0.793,
+        "searches": 16,
+        "fetches": 14
+      },
+      "extract": {
+        "cost_usd": 0.0395,
+        "searches": 0,
+        "fetches": 0
+      },
+      "rank": {
+        "cost_usd": 0.1072,
+        "searches": 0,
+        "fetches": 0
+      }
+    },
+    "reused_stages": []
+  },
+  "models": {
+    "resolve": "claude-sonnet-5-5",
+    "sweep": "claude-sonnet-5-5",
+    "research": "claude-sonnet-5-5",
+    "extract": "claude-sonnet-5-5",
+    "rank": "claude-opus-5-5"
+  },
+  "opportunities": [
+    {
+      "title": "Holiday cups to Rewards, 2027 run",
+      "what_is_happening": "Starbucks launched 2026 holiday cups and Bearista merch nationwide Nov. 5; Rewards hit a record 36 million 90-day active U.S. members.",
+      "why_flowcode": "Holiday cups reach every customer, but nothing on the cup turns non-members into Rewards first-party contacts.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "love_corn",
+      "signal_ids": [
+        "63bca0227e",
+        "02ac51d019"
+      ],
+      "confidence": 4,
+      "confidence_why": "Two agreeing signals; food-and-beverage packaging case study fits.",
+      "size": 5,
+      "size_why": "Nationwide holiday cups tied to a 36M-member program.",
+      "timing": 3,
+      "timing_why": "2026 cups already in stores; pitch the 2027 run.",
+      "suggested_play": "Print a Flowcode on 2027 holiday cups and Bearista merch tags leading to a holiday FlowHub; Smart Rules send members to offers and non-members to Rewards enrollment, synced to CRM.",
+      "contact_roles": [
+        "Brand Manager",
+        "Packaging & Design lead",
+        "Loyalty Program lead"
+      ],
+      "first_step": "Ask the Loyalty Program lead when 2027 holiday cup artwork locks; pitch on-cup Rewards enrollment.",
+      "score": 48,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "love_corn",
+        "brand": "LOVE CORN",
+        "url": "https://www.flowcode.com/case-study/love-corn",
+        "channel": "packaging",
+        "what_they_did": "Flowcodes on snack packaging led to a 'Snap, Scan, Win' giveaway, CRM sign-up and online purchase.",
+        "metrics": [
+          "62% CRM conversion rate through packaging",
+          "27k new customers captured",
+          "43,000 total scans"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "company_wide",
+        "email_loyalty"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 1,
+      "signals": [
+        {
+          "claim": "Starbucks launched its 2026 holiday menu, holiday cups, Bearista merchandise and a first-ever holiday pup cup nationwide on Nov. 5.",
+          "url": "https://abcnews.com/GMA/Food/dunkin-starbucks-debut-2026-holiday-menus/story?id=137850956",
+          "quote": "Starbucks' holiday menu items and new products debuted Nov. 5, with the chain's iconic holiday cups all dressed up in bows, garlands and trees.",
+          "published_date": "2026-11-05",
+          "channel": "company_wide",
+          "touchpoint": "2026 holiday menu launch",
+          "source_type": "news",
+          "uses_qr_or_links": false,
+          "id": "63bca0227e",
+          "url_hash": "183c7753e2df",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-05",
+          "effective_date": "2026-11-05",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        },
+        {
+          "claim": "Starbucks said Starbucks Rewards reached a record 36 million 90-day active U.S. members on its Q4 FY2026 earnings call.",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/starbucks-sbux-q4-2026-earnings-call-transcript/",
+          "quote": "Starbucks Rewards Membership -- 36 million 90-day active members in the U.S., a record high representing sequential and year-over-year growth.",
+          "published_date": "2026-10-30",
+          "channel": "email_loyalty",
+          "touchpoint": "Starbucks Rewards loyalty program",
+          "source_type": "news",
+          "uses_qr_or_links": false,
+          "id": "02ac51d019",
+          "url_hash": "5864b3608f5c",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-10-30",
+          "effective_date": "2026-10-30",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "Perfect Harmony holiday TV spot",
+      "what_is_happening": "Starbucks' 2026 US holiday TV spot \"Perfect Harmony\" is a 30-second Anomaly animation paired with a seven-track Holiday Blend album.",
+      "why_flowcode": "The spot has no scannable next step, so Starbucks cannot measure which networks drive action.",
+      "play_id": "tv_scan_to_act",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "analytics"
+      ],
+      "case_study_id": "planters",
+      "signal_ids": [
+        "5dd2caf338"
+      ],
+      "confidence": 3,
+      "confidence_why": "Single trade-press source; tentpole TV case study matches well.",
+      "size": 5,
+      "size_why": "National U.S. holiday TV campaign.",
+      "timing": 4,
+      "timing_why": "Holiday flight still airing; an end card can be added.",
+      "suggested_play": "Add a Flowcode end card leading to a FlowHub to stream the Holiday Blend album and find holiday drinks; track scans by network and creative to shift remaining holiday spend.",
+      "contact_roles": [
+        "Brand Marketing Director",
+        "Media / Advertising lead",
+        "Agency of record"
+      ],
+      "first_step": "Contact the Media lead about adding a scannable end card to remaining holiday flights.",
+      "score": 48,
+      "play": {
+        "id": "tv_scan_to_act",
+        "name": "Scannable TV and broadcast spots",
+        "channels": [
+          "tv_broadcast"
+        ],
+        "triggers": [
+          "new TV / CTV spot",
+          "Super Bowl or tentpole ad",
+          "sponsored broadcast",
+          "holiday campaign with TV"
+        ],
+        "play": "Put a Flowcode in the spot that leads to shop, content or a sweepstakes. Use analytics to see which creative and which network drove scans, then shift media spend.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "analytics"
+        ],
+        "case_studies": [
+          "nfl_shop",
+          "planters",
+          "pim_brands"
+        ],
+        "contact_roles": [
+          "Brand Marketing Director",
+          "Media / Advertising lead",
+          "Agency of record"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "planters",
+        "brand": "PLANTERS",
+        "url": "https://www.flowcode.com/case-study/planters",
+        "channel": "tv_broadcast",
+        "what_they_did": "A Flowcode in the 2023 Super Bowl ad ('The Roast of Mr. Peanut', with VaynerMedia) led to long-form YouTube content.",
+        "metrics": [
+          "76% viewed full length content from ad",
+          "45% opted to share geolocation data"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "tv_broadcast"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 2,
+      "signals": [
+        {
+          "claim": "Starbucks' 2026 US holiday TV spot \"Perfect Harmony\" is a 30-second hand-drawn animation from Anomaly and artist Geoff McFetridge, paired with a seven-track \"Holiday Blend\" album.",
+          "url": "https://news.designrush.com/starbucks-holiday-film-album-anomaly-interscope-records",
+          "quote": "The 2026 spot, \"Perfect Harmony,\" is a 30-second animation that McFetridge drew by hand on Starbucks cups using a Sharpie.",
+          "published_date": "2026-11-06",
+          "channel": "tv_broadcast",
+          "touchpoint": "holiday TV spot",
+          "source_type": "trade_press",
+          "uses_qr_or_links": false,
+          "id": "5dd2caf338",
+          "url_hash": "10f376138c62",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "live fetch failed (http_403); used web_fetch snapshot",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "tool_fetch_snapshot",
+          "page_date": null,
+          "effective_date": "2026-11-06",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "Toulouse FC matchday fan capture",
+      "what_is_happening": "Starbucks became an Official Partner of Ligue 1 club Toulouse FC, with its logo on the men's shirt sleeve and academy kits.",
+      "why_flowcode": "A sleeve logo builds awareness but gives Starbucks no first-party fan data.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "pittsburgh_penguins",
+      "signal_ids": [
+        "9ad58b876c"
+      ],
+      "confidence": 3,
+      "confidence_why": "Single trade-press source; in-arena pro sports case fits.",
+      "size": 3,
+      "size_why": "Single club in one market.",
+      "timing": 5,
+      "timing_why": "Partnership began September; season matchdays remain open.",
+      "suggested_play": "Place Flowcodes on stadium signage and live reads leading to a Starbucks FlowHub with a matchday drink offer and sweepstakes; FlowID captures fans, Smart Rules block duplicates.",
+      "contact_roles": [
+        "Sponsorships / Partnerships lead",
+        "Experiential Marketing lead"
+      ],
+      "first_step": "Reach the Sponsorships lead with a matchday activation concept for upcoming Toulouse home games.",
+      "score": 36,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "pittsburgh_penguins",
+        "brand": "Pittsburgh Penguins",
+        "url": "https://www.flowcode.com/case-study/pittsburgh-penguins",
+        "channel": "events",
+        "what_they_did": "In-arena Flowcodes drove sweepstakes entries, a 20% merch discount by live read, and scratch-card prizes.",
+        "metrics": [
+          "$8,000 revenue generated in 30 mins",
+          "88% conversion rate"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 3,
+      "signals": [
+        {
+          "claim": "Starbucks became an Official Partner of Ligue 1 club Toulouse FC, with its logo on the sleeve of the men's first-team shirt and academy kits.",
+          "url": "https://www.insideworldfootball.com/2026/09/03/toulouse-brew-up-partnership-with-us-coffee-brand-starbucks",
+          "quote": "The US coffee chain became an Official Partner of Toulouse this morning, with its Siren logo taking the sleeve position on the men\u2019s first-team shirt as well as the club\u2019s academy kits.",
+          "published_date": "2026-09-03",
+          "channel": "events",
+          "touchpoint": "Toulouse FC sports sponsorship",
+          "source_type": "trade_press",
+          "uses_qr_or_links": false,
+          "id": "9ad58b876c",
+          "url_hash": "87ebf3a94ba7",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-09-03",
+          "effective_date": "2026-09-03",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    },
+    {
+      "title": "Bearista pop-up, Singapore malls",
+      "what_is_happening": "Starbucks runs a travelling Bearista Holiday Experience pop-up across CapitaLand malls, unlocked with a reward code in the CapitaStar app.",
+      "why_flowcode": "Unlocks run through the mall's app, so entrants become CapitaLand data, not Starbucks contacts.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid",
+        "analytics"
+      ],
+      "case_study_id": "feld",
+      "signal_ids": [
+        "b6d167570b"
+      ],
+      "confidence": 3,
+      "confidence_why": "Secondary source; Feld multi-location activation is a close analogy.",
+      "size": 2,
+      "size_why": "Single-market mall pop-up.",
+      "timing": 4,
+      "timing_why": "Live and travelling now; signage can change between stops.",
+      "suggested_play": "Give each mall stop its own Flowcode leading to a Bearista FlowHub that unlocks the experience; FlowID captures entrants, Smart Rules block repeats, analytics compare malls.",
+      "contact_roles": [
+        "Experiential Marketing lead",
+        "Sponsorships / Partnerships lead"
+      ],
+      "first_step": "Contact Starbucks Singapore marketing to propose Flowcode signage at the next mall stop.",
+      "score": 19,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "feld",
+        "brand": "Feld Entertainment (Monster Jam)",
+        "url": "https://www.flowcode.com/case-study/feld-entertainment",
+        "channel": "events",
+        "what_they_did": "A citywide treasure hunt in Tampa: 20 hidden Flowcodes led to a branded FlowHub to claim tickets, and Smart Rules blocked duplicate entries.",
+        "metrics": [
+          "20 unique Flowcodes deployed",
+          "1.27K FlowHub views"
+        ],
+        "products_named": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 4,
+      "signals": [
+        {
+          "claim": "Starbucks is running a travelling Bearista Holiday Experience pop-up in CapitaLand malls in Singapore, unlocked with a code in the CapitaStar app.",
+          "url": "https://littlebigreddot.com/starbucks-bearista-capitaland-malls-christmas-2026/",
+          "quote": "Key in the reward code BEARISTA on the CapitaStar app to unlock the pop-up experiences.",
+          "published_date": "2026-11-18",
+          "channel": "events",
+          "touchpoint": "Bearista Holiday Experience mall pop-up",
+          "source_type": "news",
+          "uses_qr_or_links": true,
+          "id": "b6d167570b",
+          "url_hash": "f911a01f6ec1",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-11-18",
+          "effective_date": "2026-11-18",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true,
+          "carried_over": false
+        }
+      ],
+      "status": "new"
+    }
+  ],
+  "expired_opportunities": [],
+  "skipped_signal_ids": [
+    "51ad700f54",
+    "41ff890301"
+  ],
+  "rejected_opportunities": [],
+  "signals": [
+    {
+      "claim": "Starbucks' 2026 US holiday TV spot \"Perfect Harmony\" is a 30-second hand-drawn animation from Anomaly and artist Geoff McFetridge, paired with a seven-track \"Holiday Blend\" album.",
+      "url": "https://news.designrush.com/starbucks-holiday-film-album-anomaly-interscope-records",
+      "quote": "The 2026 spot, \"Perfect Harmony,\" is a 30-second animation that McFetridge drew by hand on Starbucks cups using a Sharpie.",
+      "published_date": "2026-11-06",
+      "channel": "tv_broadcast",
+      "touchpoint": "holiday TV spot",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "5dd2caf338",
+      "url_hash": "10f376138c62",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "live fetch failed (http_403); used web_fetch snapshot",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "tool_fetch_snapshot",
+      "page_date": null,
+      "effective_date": "2026-11-06",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks said Starbucks Rewards reached a record 36 million 90-day active U.S. members on its Q4 FY2026 earnings call.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/starbucks-sbux-q4-2026-earnings-call-transcript/",
+      "quote": "Starbucks Rewards Membership -- 36 million 90-day active members in the U.S., a record high representing sequential and year-over-year growth.",
+      "published_date": "2026-10-30",
+      "channel": "email_loyalty",
+      "touchpoint": "Starbucks Rewards loyalty program",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "02ac51d019",
+      "url_hash": "5864b3608f5c",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-10-30",
+      "effective_date": "2026-10-30",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks became an Official Partner of Ligue 1 club Toulouse FC, with its logo on the sleeve of the men's first-team shirt and academy kits.",
+      "url": "https://www.insideworldfootball.com/2026/09/03/toulouse-brew-up-partnership-with-us-coffee-brand-starbucks",
+      "quote": "The US coffee chain became an Official Partner of Toulouse this morning, with its Siren logo taking the sleeve position on the men\u2019s first-team shirt as well as the club\u2019s academy kits.",
+      "published_date": "2026-09-03",
+      "channel": "events",
+      "touchpoint": "Toulouse FC sports sponsorship",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "9ad58b876c",
+      "url_hash": "87ebf3a94ba7",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-09-03",
+      "effective_date": "2026-09-03",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks is running a travelling Bearista Holiday Experience pop-up in CapitaLand malls in Singapore, unlocked with a code in the CapitaStar app.",
+      "url": "https://littlebigreddot.com/starbucks-bearista-capitaland-malls-christmas-2026/",
+      "quote": "Key in the reward code BEARISTA on the CapitaStar app to unlock the pop-up experiences.",
+      "published_date": "2026-11-18",
+      "channel": "events",
+      "touchpoint": "Bearista Holiday Experience mall pop-up",
+      "source_type": "news",
+      "uses_qr_or_links": true,
+      "id": "b6d167570b",
+      "url_hash": "f911a01f6ec1",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-18",
+      "effective_date": "2026-11-18",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks launched a limited-edition Bearista Glass Cold Cup Surprise Box collection, including a rare golden Goldie variant, at select coffeehouses globally on Nov. 10.",
+      "url": "https://about.starbucks.com/press/2026/starbucks-launches-new-bearista-glass-cold-cup-surprise-box-collection-with-characters-including-rare-golden-bearista/",
+      "quote": "Discover Reiny, Joy, Aspen and Bunny, and the rare Goldie when the limited-edition Bearista Glass Cold Cup Surprise Box collection arrives at select coffeehouses globally on Nov. 10",
+      "published_date": "2026-11-09",
+      "channel": "packaging",
+      "touchpoint": "Bearista Glass Cold Cup Surprise Box",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "6691133c1b",
+      "url_hash": "917ebd8f85ff",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-11-09",
+      "undated": false,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks' 2026 holiday cups, coffee packaging and coffeehouse d\u00e9cor draw on a classic holiday movie theme, including the first-ever holiday pup cup.",
+      "url": "https://about.starbucks.com/stories/2026/starbucks-holiday-2026/",
+      "quote": "See how Starbucks designers turned inspiration from a classic holiday movie into this year's holiday cups, coffee packaging and coffeehouse d\u00e9cor.",
+      "published_date": "2026-11-04",
+      "channel": "packaging",
+      "touchpoint": "holiday cups and coffee packaging",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "ab96a1ebbc",
+      "url_hash": "4eed33aac0f0",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-11-04",
+      "undated": false,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Red Cup Day on Nov. 17 gave customers a free limited-edition reusable red cup with a handcrafted holiday beverage purchase.",
+      "url": "https://about.starbucks.com/stories/category/coffee-craft/cups-merch/",
+      "quote": "Starbucks is giving customers a free 2026 limited-edition reusable red cup with the purchase of a handcrafted holiday beverage on Nov. 17 at participating U.S. Starbucks coffeehouses, while supplies last.",
+      "published_date": "2026-11-15",
+      "channel": "packaging",
+      "touchpoint": "Red Cup Day reusable cup promotion",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "5d16a9c194",
+      "url_hash": "a49b8ad58511",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-11-15",
+      "undated": false,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks launched a Target-exclusive Cake Pop drinkware collection sold only at Starbucks caf\u00e9s inside Target stores starting Oct. 13, 2026.",
+      "url": "https://www.thestreet.com/retail/starbucks-target-cake-pop-exclusive-drinkware-collection-limited-time",
+      "quote": "The limited-time collection will be available beginning Oct. 13, 2026, exclusively at participating Starbucks caf\u00e9s inside Target stores nationwide.",
+      "published_date": "2026-10-14",
+      "channel": "retail",
+      "touchpoint": "Target-exclusive Cake Pop drinkware collection",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "144f5c5248",
+      "url_hash": "b2f672e76e01",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "live fetch failed (http_403); used web_fetch snapshot",
+        "quote_found": "not on page (best match 57)"
+      },
+      "match_score": 56.9,
+      "verified_via": "tool_fetch_snapshot",
+      "page_date": null,
+      "effective_date": "2026-10-14",
+      "undated": false,
+      "drop_reason": "quote_not_found",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks put its holiday coffees, creamers and ready-to-drink beverages into grocery retail, available nationwide and online.",
+      "url": "https://about.starbucks.com/stories/2026/starbucks-brings-holiday-coffees-creamers-and-ready-to-drink-beverages-to-grocery/",
+      "quote": "Starbucks at-home holiday coffees and creamers are now available at grocery retail locations and online nationwide.",
+      "published_date": "2026-10-05",
+      "channel": "retail",
+      "touchpoint": "grocery retail holiday coffees and creamers",
+      "source_type": "brand_owned",
+      "uses_qr_or_links": false,
+      "id": "f81b6681e3",
+      "url_hash": "a76499ae3cd8",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": "2026-10-05",
+      "undated": false,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks launched its 2026 holiday menu, holiday cups, Bearista merchandise and a first-ever holiday pup cup nationwide on Nov. 5.",
+      "url": "https://abcnews.com/GMA/Food/dunkin-starbucks-debut-2026-holiday-menus/story?id=137850956",
+      "quote": "Starbucks' holiday menu items and new products debuted Nov. 5, with the chain's iconic holiday cups all dressed up in bows, garlands and trees.",
+      "published_date": "2026-11-05",
+      "channel": "company_wide",
+      "touchpoint": "2026 holiday menu launch",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "63bca0227e",
+      "url_hash": "183c7753e2df",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-05",
+      "effective_date": "2026-11-05",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks is launching a new line of Tiramisu Velvet drinks as part of its 2026 holiday menu.",
+      "url": "https://abcnews.com/GMA/Food/dunkin-starbucks-debut-2026-holiday-menus/story?id=137850956",
+      "quote": "Coffee lovers can also try a brand-new menu of tiramisu drinks inspired by the popular Italian dessert, including a Tiramisu Velvet Latte topped with a Velvet Mascarpone Cold Foam and cocoa powder",
+      "published_date": "2026-11-05",
+      "channel": "company_wide",
+      "touchpoint": "Tiramisu Velvet holiday drinks",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "51ad700f54",
+      "url_hash": "183c7753e2df",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-05",
+      "effective_date": "2026-11-05",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    },
+    {
+      "claim": "Starbucks and its licensee ZAMP announced a Brazil growth plan, including about 10 new coffeehouses by end of 2026 and two locations at Beto Carrero World in 2027.",
+      "url": "https://www.teaandcoffee.net/news/40523/starbucks-announces-new-growth-strategy-in-brazil/",
+      "quote": "In 2027, Starbucks plans to open two coffeehouse locations at Beto Carrero World \u2013 including one in the park's Cowboyland district",
+      "published_date": "2026-11-16",
+      "channel": "company_wide",
+      "touchpoint": "Brazil store expansion",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "41ff890301",
+      "url_hash": "fb64cb4cd408",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-11-16",
+      "effective_date": "2026-11-16",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true,
+      "carried_over": false
+    }
+  ]
+}

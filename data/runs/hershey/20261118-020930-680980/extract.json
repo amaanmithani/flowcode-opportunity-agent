@@ -1,0 +1,82 @@
+[
+  {
+    "claim": "Reese's launched a Trick-or-Treatiest Street in America search, with a first-ever Halloween Council of celebrities and creators documenting it in a two-part social content series.",
+    "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+    "quote": "A two-part social content series will see the brand's first-ever Halloween Council, inclusive of creators and celebrities Christina Ricci and Kathy Najimy, analyze 150 of the best streets for trick-or-treating.",
+    "published_date": "2026-10-01",
+    "channel": "social_digital",
+    "touchpoint": "two-part social content series",
+    "source_type": "trade_press",
+    "uses_qr_or_links": true
+  },
+  {
+    "claim": "Hershey's is turning Halloween into a season, including a made-for-social campaign giving influencers miniature carving tools to carve Reese's peanut butter pumpkins.",
+    "url": "https://www.forbes.com/sites/cmo/2026/10/21/inside-hersheys-halloween-marketing-makeover/",
+    "quote": "Another made-for-social-media campaign was providing influencers with miniature \"carving tools\" to \"carve\" Reese's peanut butter pumpkins.",
+    "published_date": "2026-10-21",
+    "channel": "social_digital",
+    "touchpoint": "influencer social campaign",
+    "source_type": "news",
+    "uses_qr_or_links": false
+  },
+  {
+    "claim": "Hershey Canada's Twizzlers became an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+    "url": "https://mediaincanada.com/2026/10/28/hersheys-twizzlers-adds-cfl-to-its-year-round-marketing-push/",
+    "quote": "The candy brand is now an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+    "published_date": "2026-10-28",
+    "channel": "events",
+    "touchpoint": "CFL postseason and Grey Cup sponsorship",
+    "source_type": "trade_press",
+    "uses_qr_or_links": false
+  },
+  {
+    "claim": "Hershey's Kisses is launching a limited-edition holiday gift-wrapping foil kit based on its Kisses foil packaging.",
+    "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+    "quote": "This season, Hershey's Kisses is taking its iconic foil beyond the candy bowl with a limited-edition holiday gift-wrapping foil kit.",
+    "published_date": "2026-11-05",
+    "channel": "packaging",
+    "touchpoint": "Kisses holiday gift-wrapping foil kit",
+    "source_type": "press_wire",
+    "uses_qr_or_links": true
+  },
+  {
+    "claim": "Hershey's 2026 holiday line includes co-branded Dr. Seuss Grinch packaging, including a Grinch milk chocolate bar 6-pack.",
+    "url": "https://www.prnewswire.com/news-releases/the-hershey-company-unwraps-festive-offerings-for-the-2026-holiday-season-302928258.html",
+    "quote": "Creamy Hershey's milk chocolate bars feature festive Grinch packaging in a giftable 6-pack.",
+    "published_date": "2026-11-05",
+    "channel": "packaging",
+    "touchpoint": "Grinch holiday packaging",
+    "source_type": "press_wire",
+    "uses_qr_or_links": false
+  },
+  {
+    "claim": "Costco ran a Hershey's assorted-bar variety pack as part of its October Member-Only Savings, which ended Oct 18.",
+    "url": "https://www.tastingtable.com/2273107/best-costco-products-october-2026/",
+    "quote": "Costco is selling 30-count variety packs of full-sized Hershey's bars, Reese's, Kit Kats, and Hershey's with Almonds as part of the October Member-Only Savings through October 18th.",
+    "published_date": "2026-09-30",
+    "channel": "retail",
+    "touchpoint": "Costco Member-Only Savings variety pack",
+    "source_type": "news",
+    "uses_qr_or_links": false
+  },
+  {
+    "claim": "Reese's is running a Halloween campaign to find the Trick-or-Treatiest Street in America using data, community insights and a first-ever Halloween Council.",
+    "url": "https://www.thehersheycompany.com/en_us/home/newsroom/press-release/2026-10-01-Reeses-is-on-the-Hunt-to-Find-the-Trick-or-Treatiest-Street-in-America.html",
+    "quote": "taps data, community insights and a first-ever Halloween Council to find the street that brings Halloween magic to life like no other",
+    "published_date": "2026-10-01",
+    "channel": "company_wide",
+    "touchpoint": "Trick-or-Treatiest Street campaign",
+    "source_type": "brand_owned",
+    "uses_qr_or_links": false
+  },
+  {
+    "claim": "Reese's is bringing back its supersized Reese's Pie for Thanksgiving, positioned as a no-bake dessert option.",
+    "url": "https://www.prnewswire.com/news-releases/reeses-pie-returns-to-steal-the-show-and-your-dessert-table-this-thanksgiving-302937974.html",
+    "quote": "The holidays can be stressful. Dessert doesn't have to be. This year, skip the baking, as the Reese's brand is bringing back its supersized",
+    "published_date": "2026-11-12",
+    "channel": "company_wide",
+    "touchpoint": "Reese's Pie Thanksgiving campaign",
+    "source_type": "press_wire",
+    "uses_qr_or_links": false
+  }
+]

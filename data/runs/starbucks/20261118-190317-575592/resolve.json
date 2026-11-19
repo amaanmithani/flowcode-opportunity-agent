@@ -1,0 +1,28 @@
+{
+  "resolution": {
+    "official_name": "Starbucks Corporation",
+    "domain": "starbucks.com",
+    "newsroom_url": "https://about.starbucks.com/press/press-releases/",
+    "parent_company": null,
+    "category": "coffeehouse chain / food & beverage retail",
+    "sub_brands": [
+      "Starbucks Coffee",
+      "Teavana",
+      "Ethos",
+      "Starbucks Reserve",
+      "Princi",
+      "Evolution Fresh",
+      "Starbucks Roastery",
+      "Frappuccino",
+      "Starbucks Refreshers",
+      "Starbucks VIA"
+    ],
+    "one_liner": "The world's largest coffeehouse chain, with more than 40,000 stores, selling coffee, tea, food and merchandise through company-operated and licensed stores."
+  },
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  }
+}

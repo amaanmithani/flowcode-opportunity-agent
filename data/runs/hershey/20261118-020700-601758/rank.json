@@ -1,0 +1,121 @@
+{
+  "opportunities": [
+    {
+      "title": "Super Sweet Adventure pop-up -> first-party capture for the next experiential run",
+      "what_is_happening": "Hershey ran Super Sweet Adventure, a ticketed pop-up experience and retail store at Tysons Corner Center, for more than four months. It was slated to close on Labor Day (Sept. 7, 2026). The signal shows no QR codes or links in use.",
+      "why_flowcode": "A ticketed pop-up with an attached retail store reaches visitors in person, but the signal shows no measurable digital next step. Flowcodes on tickets, in-experience signage and store displays, leading to a FlowHub with FlowID, would turn each visit into a first-party connection. Analytics would show which touchpoints drive store purchases.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid",
+        "analytics"
+      ],
+      "case_study_id": "feld",
+      "signal_ids": [
+        "6d50efff3c"
+      ],
+      "confidence": 4,
+      "confidence_why": "Local news reports the pop-up and closure directly; the Flowcode fit for a future run is inferred.",
+      "size": 2,
+      "size_why": "Single mall location in one market.",
+      "timing": 1,
+      "timing_why": "Closed on Labor Day 2026, and the signal gives no sign of a reopening or new location.",
+      "suggested_play": "For Hershey's next experiential pop-up, put a unique Flowcode on tickets, each experience zone and the retail store displays. Each code would lead to a Hershey FlowHub with offers, a sweepstakes and email sign-up. Smart Rules can block duplicate entries, and FlowID keeps every visitor as a first-party contact synced to the CRM. Feld Entertainment used this approach for Monster Jam in Tampa: 20 hidden Flowcodes led to a branded FlowHub, with Smart Rules blocking duplicate entries.",
+      "contact_roles": [
+        "Experiential Marketing lead",
+        "Sponsorships / Partnerships lead",
+        "CRM / Lifecycle Marketing lead"
+      ],
+      "first_step": "Email Hershey's Experiential Marketing lead. Reference the Super Sweet Adventure run at Tysons Corner Center and ask whether another pop-up or touring version is planned. Attach the Feld Entertainment case study.",
+      "score": 6,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "feld",
+        "brand": "Feld Entertainment (Monster Jam)",
+        "url": "https://www.flowcode.com/case-study/feld-entertainment",
+        "channel": "events",
+        "what_they_did": "A citywide treasure hunt in Tampa: 20 hidden Flowcodes led to a branded FlowHub to claim tickets, and Smart Rules blocked duplicate entries.",
+        "metrics": [
+          "20 unique Flowcodes deployed",
+          "1.27K FlowHub views"
+        ],
+        "products_named": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 1
+    }
+  ],
+  "skipped_signal_ids": [],
+  "rejected": []
+}

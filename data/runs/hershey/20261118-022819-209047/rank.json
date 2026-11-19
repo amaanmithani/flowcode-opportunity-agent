@@ -1,0 +1,559 @@
+{
+  "opportunities": [
+    {
+      "title": "Grinch and Kisses holiday packs -> on-pack conversion funnel for the 2027 run",
+      "what_is_happening": "Hershey's 2026 holiday line includes co-branded Dr. Seuss Grinch packaging, including a giftable Grinch milk chocolate bar 6-pack. It also includes a limited-edition Hershey's Kisses gift-wrapping foil kit sold at shop.hersheys.com/holiday on Cyber Monday, Nov. 30.",
+      "why_flowcode": "The holiday packs reach shoppers but offer no measurable digital next step and capture no first-party data. The only link in the release is the online shop URL. A Flowcode on the pack leading to a FlowHub (Grinch sweepstakes, gifting ideas, shop link) would capture each scanner into FlowID and sync them to the CRM. The destination can change after printing.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "capri_sun",
+      "signal_ids": [
+        "6821134800",
+        "0532e45144",
+        "8dbbd87438"
+      ],
+      "confidence": 5,
+      "confidence_why": "Brand's own press release across three signals; Capri Sun is a close match: a front-of-pack licensed sweepstakes from a national CPG snack brand.",
+      "size": 5,
+      "size_why": "Seasonal packaging on a national confectionery brand.",
+      "timing": 3,
+      "timing_why": "The 2026 holiday packs are already produced and on shelves, so the realistic pitch is the 2027 holiday run.",
+      "suggested_play": "For the 2027 holiday line, put a Flowcode on the front of the Grinch 6-pack and the Kisses gift packs that opens a 'Scan to Win' holiday FlowHub. Every entrant becomes a FlowID contact synced to Hershey's CRM. Capri Sun's front-of-pack sweepstakes drove 28K+ sweepstakes submissions and became a Top 3 performing code across the Kraft Heinz portfolio, and one print run can carry later seasonal promotions.",
+      "contact_roles": [
+        "Brand Manager, Seasonal",
+        "Packaging & Design lead",
+        "CRM / Loyalty lead"
+      ],
+      "first_step": "Email the Hershey's seasonal Brand Manager with the Capri Sun case study and ask when 2027 holiday packaging artwork locks.",
+      "score": 60,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "capri_sun",
+        "brand": "Capri Sun",
+        "url": "https://www.flowcode.com/case-study/capri-sun",
+        "channel": "packaging",
+        "what_they_did": "A scannable code on the front of the pack led to a sweepstakes entry for a Nintendo Switch 2 prize pack.",
+        "metrics": [
+          "28K+ sweepstakes submissions",
+          "579K+ total views",
+          "Top 3 performing code across the Kraft Heinz portfolio"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "packaging"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 1
+    },
+    {
+      "title": "Creme Bars 'Pinky Up' TV and social -> scannable spots with one shared identity",
+      "what_is_happening": "Hershey's launched Salted Caramel and Affogato Creme Bars in September 2026 with a KATSEYE 'Pinky Up' TV commercial. The campaign spans CTV, national TV, digital video, display, paid social, streaming audio, influencer and earned media, with sampling, pop-ups and an Uber partnership planned to follow.",
+      "why_flowcode": "Neither the spot nor the social and influencer work shows a QR code or trackable link. Hershey can't tie the national TV and CTV spend to actions or to people. A Flowcode in the spot, FlowURLs in creator posts, and Analytics by network and creative would route both channels to one FlowHub and attribute them to the same people.",
+      "play_id": "tv_scan_to_act",
+      "product_ids": [
+        "flowcodes",
+        "flowurls",
+        "flowhubs",
+        "analytics"
+      ],
+      "case_study_id": "pim_brands",
+      "signal_ids": [
+        "15508d9579",
+        "c6315d7c9e"
+      ],
+      "confidence": 5,
+      "confidence_why": "Two agreeing trade-press signals; PIM Brands is a close match: a scannable multi-network TV spot for a snack brand, with media shifted on real-time data.",
+      "size": 5,
+      "size_why": "National TV and CTV plus paid social and influencer reach for a new product line.",
+      "timing": 3,
+      "timing_why": "The launch spot was produced in September; the opening is the next flight or the planned sampling and pop-up follow-ons.",
+      "suggested_play": "On the next Creme Bars flight, add a Flowcode to the 'Pinky Up' spot that opens a FlowHub with a KATSEYE-themed sweepstakes and a where-to-buy link. Use FlowURLs with the same FlowHub in influencer posts. Analytics would show which network, creative and creator drives entries, the way PIM Brands captured 32k new contacts at a 56% conversion rate and shifted placements in real time.",
+      "contact_roles": [
+        "Brand Marketing Director",
+        "Media / Advertising lead",
+        "Agency of record",
+        "Influencer Marketing lead"
+      ],
+      "first_step": "Reach the Creme Bars Media / Advertising lead with the PIM Brands case study and ask about the next TV/CTV flight and the follow-on activations.",
+      "score": 60,
+      "play": {
+        "id": "tv_scan_to_act",
+        "name": "Scannable TV and broadcast spots",
+        "channels": [
+          "tv_broadcast"
+        ],
+        "triggers": [
+          "new TV / CTV spot",
+          "Super Bowl or tentpole ad",
+          "sponsored broadcast",
+          "holiday campaign with TV"
+        ],
+        "play": "Put a Flowcode in the spot that leads to shop, content or a sweepstakes. Use analytics to see which creative and which network drove scans, then shift media spend.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "analytics"
+        ],
+        "case_studies": [
+          "nfl_shop",
+          "planters",
+          "pim_brands"
+        ],
+        "contact_roles": [
+          "Brand Marketing Director",
+          "Media / Advertising lead",
+          "Agency of record"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowurls",
+          "name": "FlowURLs",
+          "url": "https://www.flowcode.com/product/flowurls",
+          "page_quote": "FlowURLs connect your digital marketing to your real-world marketing",
+          "what_it_does": "Branded, trackable short links with dynamic routing and IDs, for digital and social channels.",
+          "use_when": "The brand runs social, influencer, email or digital campaigns and needs attribution tied to the same identity as its offline touchpoints."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "pim_brands",
+        "brand": "PIM Brands",
+        "url": "https://www.flowcode.com/case-study/pim-brands",
+        "channel": "tv_broadcast",
+        "what_they_did": "A scannable Flowcode in an interactive TV commercial across several networks drove a Welch's Fruit Snacks sweepstakes with NFL player Mark Andrews. Real-time data was used to shift media placements.",
+        "metrics": [
+          "32k new contacts captured",
+          "56% conversion rate",
+          "93% net new"
+        ],
+        "products_named": []
+      },
+      "adjustments": [],
+      "channels": [
+        "social_digital",
+        "tv_broadcast"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 2
+    },
+    {
+      "title": "Reese's Pie limited drop -> on-pack and in-club demand capture",
+      "what_is_happening": "Reese's is bringing back its supersized Reese's Pie as a Thanksgiving dessert. It went on sale Nov. 16, 2026 at shop.hersheys.com for $49.99 (limit 2 per order) and has been in limited quantities at select warehouse club locations. Trade press frames it as Hershey's move into dessert and bakery, beyond the candy aisle.",
+      "why_flowcode": "Hershey already drives traffic to a shop URL, but the warehouse-club units carry no measurable digital step. Buyers who miss the limited drop leave no first-party data. A Flowcode on the Pie box and club display leading to a FlowHub (serving ideas, next-drop alert sign-up) would capture buyers and fans into FlowID. It would also show which club locations convert.",
+      "play_id": "on_pack_crm",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid",
+        "analytics"
+      ],
+      "case_study_id": "love_corn",
+      "signal_ids": [
+        "fdac1cb60f",
+        "9f7aab1213",
+        "b88c7b2160"
+      ],
+      "confidence": 4,
+      "confidence_why": "Brand's own press release plus trade press; LOVE CORN is a solid packaging-to-CRM match, though a limited-drop dessert is a looser analogy.",
+      "size": 3,
+      "size_why": "A limited-quantity item sold online and at select warehouse clubs.",
+      "timing": 3,
+      "timing_why": "This year's units are produced and selling; the product returns seasonally, so pitch the next drop.",
+      "suggested_play": "For the next Reese's Pie return, print a Flowcode on the box and club signage that opens a FlowHub with serving ideas and a 'get notified for the next drop' sign-up into FlowID. LOVE CORN turned packaging scans into a 62% CRM conversion rate and 27k new customers captured, and here that audience would become a built-in launch list for Hershey's new dessert line.",
+      "contact_roles": [
+        "Brand Manager, Reese's",
+        "Shopper Marketing lead",
+        "CRM / Loyalty lead"
+      ],
+      "first_step": "Send the Reese's Brand Manager the LOVE CORN case study with a one-page mock of a drop-alert FlowHub for the next Reese's Pie release.",
+      "score": 29,
+      "play": {
+        "id": "on_pack_crm",
+        "name": "On-pack conversion funnel",
+        "channels": [
+          "packaging"
+        ],
+        "triggers": [
+          "new or limited-edition packaging",
+          "holiday or seasonal SKUs",
+          "licensed or co-branded packs",
+          "on-pack sweepstakes or promotions"
+        ],
+        "play": "Put a Flowcode on the pack that leads to a FlowHub (sweepstakes, recipe, game, store locator). Capture each scanner into FlowID and sync to the CRM. The code's destination can change after printing, so one print run supports later campaigns.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "love_corn",
+          "welchs",
+          "lunchables",
+          "capri_sun"
+        ],
+        "contact_roles": [
+          "Brand Manager",
+          "Packaging & Design lead",
+          "CRM / Loyalty lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "love_corn",
+        "brand": "LOVE CORN",
+        "url": "https://www.flowcode.com/case-study/love-corn",
+        "channel": "packaging",
+        "what_they_did": "Flowcodes on snack packaging led to a 'Snap, Scan, Win' giveaway, CRM sign-up and online purchase.",
+        "metrics": [
+          "62% CRM conversion rate through packaging",
+          "27k new customers captured",
+          "43,000 total scans"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "company_wide",
+        "retail"
+      ],
+      "uses_qr_or_links": true,
+      "rank": 3
+    },
+    {
+      "title": "Twizzlers CFL postseason sponsorship -> first-party fan capture",
+      "what_is_happening": "Hershey Canada's Twizzlers became an official sponsor of the 2026 CFL postseason, including the Grey Cup.",
+      "why_flowcode": "The sponsorship reaches football fans but shows no QR code or link. Fan data stays with the league instead of Hershey. Flowcodes on sponsor signage and activations leading to a Twizzlers FlowHub (sweepstakes, offer) would capture each fan into FlowID, with Smart Rules blocking duplicate entries.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "pittsburgh_penguins",
+      "signal_ids": [
+        "4ac38f9324"
+      ],
+      "confidence": 3,
+      "confidence_why": "A single trade-press source; the Penguins in-venue sports activation is a reasonable but not same-category match.",
+      "size": 4,
+      "size_why": "A national pro-league postseason sponsorship, including the Grey Cup.",
+      "timing": 3,
+      "timing_why": "The postseason is late in its run; the realistic pitch is the next season's activation.",
+      "suggested_play": "Pitch Hershey Canada on adding Flowcodes to Twizzlers in-stadium signage and broadcast sponsor moments for the next CFL season, leading to a Twizzlers sweepstakes FlowHub with FlowID capture. The Pittsburgh Penguins drove an 88% conversion rate and $8,000 revenue generated in 30 mins from in-arena Flowcodes.",
+      "contact_roles": [
+        "Sponsorships / Partnerships lead, Hershey Canada",
+        "Experiential Marketing lead"
+      ],
+      "first_step": "Contact Hershey Canada's Sponsorships lead with the Penguins case study and ask how they plan to measure the CFL deal next season.",
+      "score": 29,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "pittsburgh_penguins",
+        "brand": "Pittsburgh Penguins",
+        "url": "https://www.flowcode.com/case-study/pittsburgh-penguins",
+        "channel": "events",
+        "what_they_did": "In-arena Flowcodes drove sweepstakes entries, a 20% merch discount by live read, and scratch-card prizes.",
+        "metrics": [
+          "$8,000 revenue generated in 30 mins",
+          "88% conversion rate"
+        ],
+        "products_named": [
+          "flowcodes"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 4
+    },
+    {
+      "title": "Recurring Hershey pop-ups -> turn giveaways and recipe cards into first-party contacts",
+      "what_is_happening": "Reese's and The Nitro Bar gave away up to 1,000 lattes a day at a free NYC pop-up on Sept. 14-15, 2026, each with a recipe card. Hershey's Super Sweet Adventure ran as a ticketed pop-up and retail store at Tysons Corner Center for more than four months, through Labor Day. Sampling and pop-ups are planned to follow the Creme Bars launch.",
+      "why_flowcode": "Hershey keeps running in-person activations that hand out product and printed recipe cards but capture no first-party data. A Flowcode on recipe cards, cups and signage leading to a FlowHub would add each visitor to FlowID. Smart Rules would block duplicate giveaway claims.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid"
+      ],
+      "case_study_id": "feld",
+      "signal_ids": [
+        "4e74e54b0c",
+        "6d50efff3c",
+        "15508d9579"
+      ],
+      "confidence": 3,
+      "confidence_why": "Several agreeing signals show a repeated pop-up pattern, but the sources are secondary and Feld is an entertainment, not CPG, analogy.",
+      "size": 2,
+      "size_why": "Single-market activations.",
+      "timing": 3,
+      "timing_why": "The cited pop-ups have ended, but more Creme Bars sampling and pop-ups are planned, so the next activation is still open.",
+      "suggested_play": "For the planned Creme Bars sampling and pop-ups, put a Flowcode on every sample, recipe card and sign that opens a branded FlowHub to claim the giveaway or a recipe. Each visitor is captured in FlowID, and Smart Rules stop duplicate claims, as in Feld's Monster Jam treasure hunt.",
+      "contact_roles": [
+        "Experiential Marketing lead",
+        "Brand Manager, Creme Bars"
+      ],
+      "first_step": "Ask the Experiential Marketing lead for the calendar of upcoming Creme Bars sampling and pop-up dates.",
+      "score": 14,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        }
+      ],
+      "case_study": {
+        "id": "feld",
+        "brand": "Feld Entertainment (Monster Jam)",
+        "url": "https://www.flowcode.com/case-study/feld-entertainment",
+        "channel": "events",
+        "what_they_did": "A citywide treasure hunt in Tampa: 20 hidden Flowcodes led to a branded FlowHub to claim tickets, and Smart Rules blocked duplicate entries.",
+        "metrics": [
+          "20 unique Flowcodes deployed",
+          "1.27K FlowHub views"
+        ],
+        "products_named": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events",
+        "tv_broadcast"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 5
+    }
+  ],
+  "skipped_signal_ids": [
+    "e65334ff9d",
+    "32e51ff1f6"
+  ],
+  "rejected": []
+}

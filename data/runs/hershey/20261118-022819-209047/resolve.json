@@ -1,0 +1,28 @@
+{
+  "resolution": {
+    "official_name": "The Hershey Company",
+    "domain": "thehersheycompany.com",
+    "newsroom_url": "https://www.thehersheycompany.com/en_us/home/newsroom.html",
+    "parent_company": null,
+    "category": "confectionery and snacks / CPG",
+    "sub_brands": [
+      "Hershey's",
+      "Reese's",
+      "Kit Kat",
+      "Twizzlers",
+      "Jolly Rancher",
+      "Ice Breakers",
+      "Brookside",
+      "Pirate's Booty",
+      "SkinnyPop",
+      "Dot's Pretzels"
+    ],
+    "one_liner": "A U.S.-based maker of chocolate, candy, mints and snacks, best known for Hershey's and Reese's."
+  },
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "5dd2caf338": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks' 2026 US holiday TV spot \"Perfect Harmony\" is a 30-second hand-drawn animation from Anomaly and artist Geoff McFetridge, paired with a seven-track \"Holiday Blend\" album.",
+      "url": "https://news.designrush.com/starbucks-holiday-film-album-anomaly-interscope-records",
+      "quote": "The 2026 spot, \"Perfect Harmony,\" is a 30-second animation that McFetridge drew by hand on Starbucks cups using a Sharpie.",
+      "published_date": "2026-11-06",
+      "channel": "tv_broadcast",
+      "touchpoint": "holiday TV spot",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false
+    }
+  },
+  "02ac51d019": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks said Starbucks Rewards reached a record 36 million 90-day active U.S. members on its Q4 FY2026 earnings call.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/30/starbucks-sbux-q4-2026-earnings-call-transcript/",
+      "quote": "Starbucks Rewards Membership -- 36 million 90-day active members in the U.S., a record high representing sequential and year-over-year growth.",
+      "published_date": "2026-10-30",
+      "channel": "email_loyalty",
+      "touchpoint": "Starbucks Rewards loyalty program",
+      "source_type": "news",
+      "uses_qr_or_links": false
+    }
+  },
+  "9ad58b876c": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks became an Official Partner of Ligue 1 club Toulouse FC, with its logo on the sleeve of the men's first-team shirt and academy kits.",
+      "url": "https://www.insideworldfootball.com/2026/09/03/toulouse-brew-up-partnership-with-us-coffee-brand-starbucks",
+      "quote": "The US coffee chain became an Official Partner of Toulouse this morning, with its Siren logo taking the sleeve position on the men\u2019s first-team shirt as well as the club\u2019s academy kits.",
+      "published_date": "2026-09-03",
+      "channel": "events",
+      "touchpoint": "Toulouse FC sports sponsorship",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false
+    }
+  },
+  "b6d167570b": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks is running a travelling Bearista Holiday Experience pop-up in CapitaLand malls in Singapore, unlocked with a code in the CapitaStar app.",
+      "url": "https://littlebigreddot.com/starbucks-bearista-capitaland-malls-christmas-2026/",
+      "quote": "Key in the reward code BEARISTA on the CapitaStar app to unlock the pop-up experiences.",
+      "published_date": "2026-11-18",
+      "channel": "events",
+      "touchpoint": "Bearista Holiday Experience mall pop-up",
+      "source_type": "news",
+      "uses_qr_or_links": true
+    }
+  },
+  "63bca0227e": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks launched its 2026 holiday menu, holiday cups, Bearista merchandise and a first-ever holiday pup cup nationwide on Nov. 5.",
+      "url": "https://abcnews.com/GMA/Food/dunkin-starbucks-debut-2026-holiday-menus/story?id=137850956",
+      "quote": "Starbucks' holiday menu items and new products debuted Nov. 5, with the chain's iconic holiday cups all dressed up in bows, garlands and trees.",
+      "published_date": "2026-11-05",
+      "channel": "company_wide",
+      "touchpoint": "2026 holiday menu launch",
+      "source_type": "news",
+      "uses_qr_or_links": false
+    }
+  },
+  "51ad700f54": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks is launching a new line of Tiramisu Velvet drinks as part of its 2026 holiday menu.",
+      "url": "https://abcnews.com/GMA/Food/dunkin-starbucks-debut-2026-holiday-menus/story?id=137850956",
+      "quote": "Coffee lovers can also try a brand-new menu of tiramisu drinks inspired by the popular Italian dessert, including a Tiramisu Velvet Latte topped with a Velvet Mascarpone Cold Foam and cocoa powder",
+      "published_date": "2026-11-05",
+      "channel": "company_wide",
+      "touchpoint": "Tiramisu Velvet holiday drinks",
+      "source_type": "news",
+      "uses_qr_or_links": false
+    }
+  },
+  "41ff890301": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "signal": {
+      "claim": "Starbucks and its licensee ZAMP announced a Brazil growth plan, including about 10 new coffeehouses by end of 2026 and two locations at Beto Carrero World in 2027.",
+      "url": "https://www.teaandcoffee.net/news/40523/starbucks-announces-new-growth-strategy-in-brazil/",
+      "quote": "In 2027, Starbucks plans to open two coffeehouse locations at Beto Carrero World \u2013 including one in the park's Cowboyland district",
+      "published_date": "2026-11-16",
+      "channel": "company_wide",
+      "touchpoint": "Brazil store expansion",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false
+    }
+  }
+}

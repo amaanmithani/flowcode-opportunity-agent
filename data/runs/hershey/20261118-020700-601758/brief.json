@@ -1,0 +1,346 @@
+{
+  "slug": "hershey",
+  "input": "Hershey",
+  "run_id": "20261118-020700-601758",
+  "generated_at": "2026-11-18T02:08:08",
+  "account": {
+    "label": "prospect",
+    "evidence": [
+      "No match in Flowcode's public customer list (checked 2026-11-18)."
+    ]
+  },
+  "resolution": {
+    "official_name": "The Hershey Company",
+    "domain": "thehersheycompany.com",
+    "newsroom_url": "https://www.thehersheycompany.com/en_us/home/newsroom.html",
+    "parent_company": null,
+    "category": "confectionery and snacks / CPG",
+    "sub_brands": [
+      "Hershey's",
+      "Reese's",
+      "Kit Kat",
+      "Twizzlers",
+      "Jolly Rancher",
+      "Ice Breakers",
+      "Brookside",
+      "Pirate's Booty",
+      "SkinnyPop",
+      "Dot's Pretzels"
+    ],
+    "one_liner": "A U.S.-based maker of chocolate, candy, mints and snacks, best known for Hershey's and Reese's."
+  },
+  "stats": {
+    "signals_found": 4,
+    "signals_verified": 1,
+    "signals_dropped": 3,
+    "drop_reasons": {
+      "fetch_failed": 2,
+      "stale": 1
+    },
+    "new_signals": 1,
+    "opportunities": 1,
+    "per_channel": {
+      "tv_broadcast": {
+        "found": 0,
+        "verified": 0
+      },
+      "social_digital": {
+        "found": 0,
+        "verified": 0
+      },
+      "email_loyalty": {
+        "found": 0,
+        "verified": 0
+      },
+      "events": {
+        "found": 1,
+        "verified": 1
+      },
+      "packaging": {
+        "found": 1,
+        "verified": 0
+      },
+      "retail": {
+        "found": 0,
+        "verified": 0
+      },
+      "company_wide": {
+        "found": 2,
+        "verified": 0
+      }
+    },
+    "cost_usd": 0.5559,
+    "tokens_in": 82150,
+    "tokens_out": 8954,
+    "cache_read_tokens": 190122,
+    "web_searches": 22,
+    "web_fetches": 0,
+    "llm_calls": 11,
+    "elapsed_s": 68.0,
+    "reused_stages": []
+  },
+  "models": {
+    "resolve": "claude-sonnet-5-5",
+    "research": "claude-sonnet-5-5",
+    "extract": "claude-sonnet-5-5",
+    "rank": "claude-opus-5-5"
+  },
+  "opportunities": [
+    {
+      "title": "Super Sweet Adventure pop-up -> first-party capture for the next experiential run",
+      "what_is_happening": "Hershey ran Super Sweet Adventure, a ticketed pop-up experience and retail store at Tysons Corner Center, for more than four months. It was slated to close on Labor Day (Sept. 7, 2026). The signal shows no QR codes or links in use.",
+      "why_flowcode": "A ticketed pop-up with an attached retail store reaches visitors in person, but the signal shows no measurable digital next step. Flowcodes on tickets, in-experience signage and store displays, leading to a FlowHub with FlowID, would turn each visit into a first-party connection. Analytics would show which touchpoints drive store purchases.",
+      "play_id": "event_capture",
+      "product_ids": [
+        "flowcodes",
+        "flowhubs",
+        "flowid",
+        "analytics"
+      ],
+      "case_study_id": "feld",
+      "signal_ids": [
+        "6d50efff3c"
+      ],
+      "confidence": 4,
+      "confidence_why": "Local news reports the pop-up and closure directly; the Flowcode fit for a future run is inferred.",
+      "size": 2,
+      "size_why": "Single mall location in one market.",
+      "timing": 1,
+      "timing_why": "Closed on Labor Day 2026, and the signal gives no sign of a reopening or new location.",
+      "suggested_play": "For Hershey's next experiential pop-up, put a unique Flowcode on tickets, each experience zone and the retail store displays. Each code would lead to a Hershey FlowHub with offers, a sweepstakes and email sign-up. Smart Rules can block duplicate entries, and FlowID keeps every visitor as a first-party contact synced to the CRM. Feld Entertainment used this approach for Monster Jam in Tampa: 20 hidden Flowcodes led to a branded FlowHub, with Smart Rules blocking duplicate entries.",
+      "contact_roles": [
+        "Experiential Marketing lead",
+        "Sponsorships / Partnerships lead",
+        "CRM / Lifecycle Marketing lead"
+      ],
+      "first_step": "Email Hershey's Experiential Marketing lead. Reference the Super Sweet Adventure run at Tysons Corner Center and ask whether another pop-up or touring version is planned. Attach the Feld Entertainment case study.",
+      "score": 6,
+      "play": {
+        "id": "event_capture",
+        "name": "Event and sponsorship capture",
+        "channels": [
+          "events"
+        ],
+        "triggers": [
+          "sports or entertainment sponsorship",
+          "tour or festival partnership",
+          "pop-up or experiential activation",
+          "venue signage or naming rights"
+        ],
+        "play": "Put Flowcodes on signage, merch, tickets and activations that lead to a sponsor FlowHub. Use Smart Rules to block duplicate entries, and keep every fan as a first-party contact instead of leaving them with the rights holder.",
+        "products": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ],
+        "case_studies": [
+          "ceremony_of_roses",
+          "pittsburgh_penguins",
+          "feld",
+          "gobowling"
+        ],
+        "contact_roles": [
+          "Sponsorships / Partnerships lead",
+          "Experiential Marketing lead"
+        ]
+      },
+      "products": [
+        {
+          "id": "flowcodes",
+          "name": "Flowcodes",
+          "url": "https://www.flowcode.com/product/flowcodes",
+          "page_quote": "Drive conversions in the real world with the #1 Enterprise QR code.",
+          "what_it_does": "Dynamic, branded QR codes for physical touchpoints. The destination can be changed after printing. Every code is measured on its own and by location.",
+          "use_when": "The brand has a physical or broadcast touchpoint (pack, shelf, display, OOH, TV spot, venue signage, merch) with no measurable digital next step."
+        },
+        {
+          "id": "flowhubs",
+          "name": "FlowHubs",
+          "url": "https://www.flowcode.com/product/flowhubs",
+          "page_quote": "Deliver personalized offers, apps, promotions, and sponsor ads straight from your brand ecosystem.",
+          "what_it_does": "Mobile landing pages and campaign hubs, built from templates or fully custom. Routes each visitor to the right offer, content or action.",
+          "use_when": "A campaign has several destinations (sweepstakes, recipe, store locator, app, sponsor offer) and needs one branded mobile destination."
+        },
+        {
+          "id": "flowid",
+          "name": "FlowID & Personalization",
+          "url": "https://www.flowcode.com/product/ids-personalization",
+          "page_quote": "Build a persistent first-party identity from every Flowcode, FlowURL, and FlowHub connection.",
+          "what_it_does": "Persistent first-party identity, two-way CRM sync, Smart Rules that route by loyalty tier, LTV or audience, and Audience Builder.",
+          "use_when": "The brand has a loyalty, rewards or CRM program, or a touchpoint that reaches people but captures no first-party data."
+        },
+        {
+          "id": "analytics",
+          "name": "Analytics & Integrations",
+          "url": "https://www.flowcode.com/product/analytics-integrations",
+          "page_quote": "Real-time analytics that feed directly into your tech stack",
+          "what_it_does": "Real-time dashboards, a Conversion Pixel for full-funnel attribution, SmartFlow (AI-driven optimization of landing experiences), and integrations with HubSpot, Salesforce, Snowflake, Adobe, Mailchimp, Zapier, Okta and Microsoft 365.",
+          "use_when": "The brand spends heavily on offline media (TV, OOH, retail, sponsorships) and cannot measure which placements or creative drive results."
+        }
+      ],
+      "case_study": {
+        "id": "feld",
+        "brand": "Feld Entertainment (Monster Jam)",
+        "url": "https://www.flowcode.com/case-study/feld-entertainment",
+        "channel": "events",
+        "what_they_did": "A citywide treasure hunt in Tampa: 20 hidden Flowcodes led to a branded FlowHub to claim tickets, and Smart Rules blocked duplicate entries.",
+        "metrics": [
+          "20 unique Flowcodes deployed",
+          "1.27K FlowHub views"
+        ],
+        "products_named": [
+          "flowcodes",
+          "flowhubs",
+          "flowid"
+        ]
+      },
+      "adjustments": [],
+      "channels": [
+        "events"
+      ],
+      "uses_qr_or_links": false,
+      "rank": 1,
+      "signals": [
+        {
+          "claim": "Hershey ran Super Sweet Adventure, a ticketed pop-up experience and retail store at Tysons Corner Center, slated to close on Labor Day 2026.",
+          "url": "https://www.ffxnow.com/2026/08/26/hershey-to-close-pop-up-store-and-experience-in-tysons-next-month/",
+          "quote": "The sweets-celebrating attraction -- which consists of both a ticketed experience and a retail store -- is slated to close on Labor Day (Monday, Sept. 7) after staying at the mall for more than four months.",
+          "published_date": "2026-08-26",
+          "channel": "events",
+          "touchpoint": "Super Sweet Adventure pop-up experience and retail store",
+          "source_type": "news",
+          "uses_qr_or_links": false,
+          "id": "6d50efff3c",
+          "url_hash": "62fdd4841e5f",
+          "verified": true,
+          "checks": {
+            "source_allowed": "pass",
+            "fetch": "pass",
+            "quote_found": "pass",
+            "fresh": "pass",
+            "unique": "pass"
+          },
+          "match_score": 100.0,
+          "verified_via": "live_fetch",
+          "page_date": "2026-08-26",
+          "effective_date": "2026-08-26",
+          "undated": false,
+          "drop_reason": null,
+          "first_seen": "2026-11-18",
+          "is_new": true
+        }
+      ],
+      "status": "new"
+    }
+  ],
+  "expired_opportunities": [],
+  "skipped_signal_ids": [],
+  "rejected_opportunities": [],
+  "signals": [
+    {
+      "claim": "Hershey ran Super Sweet Adventure, a ticketed pop-up experience and retail store at Tysons Corner Center, slated to close on Labor Day 2026.",
+      "url": "https://www.ffxnow.com/2026/08/26/hershey-to-close-pop-up-store-and-experience-in-tysons-next-month/",
+      "quote": "The sweets-celebrating attraction -- which consists of both a ticketed experience and a retail store -- is slated to close on Labor Day (Monday, Sept. 7) after staying at the mall for more than four months.",
+      "published_date": "2026-08-26",
+      "channel": "events",
+      "touchpoint": "Super Sweet Adventure pop-up experience and retail store",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "6d50efff3c",
+      "url_hash": "62fdd4841e5f",
+      "verified": true,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "pass",
+        "unique": "pass"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-08-26",
+      "effective_date": "2026-08-26",
+      "undated": false,
+      "drop_reason": null,
+      "first_seen": "2026-11-18",
+      "is_new": true
+    },
+    {
+      "claim": "Hershey and Warner Bros. Discovery Global Consumer Products announced limited-edition Harry Potter-themed Hershey's milk chocolate bars and Kisses.",
+      "url": "https://drugstorenews.com/hersheys-warner-bros-announce-limited-edition-harry-potter-products",
+      "quote": "The Hershey Company and Warner Bros. Discovery Global Consumer Products announced limited-edition Hershey's milk chocolate bars and Kisses that feature the Wizarding World of Harry Potter.",
+      "published_date": null,
+      "channel": "packaging",
+      "touchpoint": "Harry Potter limited-edition bars and Kisses packaging",
+      "source_type": "trade_press",
+      "uses_qr_or_links": false,
+      "id": "668a2bd785",
+      "url_hash": "a02d6a2a7afe",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": null,
+      "undated": true,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true
+    },
+    {
+      "claim": "Hershey launched ONE Hershey, a unified U.S. commercial operating model across its sweet, salty and protein brands.",
+      "url": "https://finance.yahoo.com/news/hershey-company-announces-significant-operation-160413532.html",
+      "quote": "By activating our full portfolio as ONE Hershey, we're better positioned to meet consumers wherever they are, create more moments of goodness and lead next generation snacking with speed and purpose.",
+      "published_date": null,
+      "channel": "company_wide",
+      "touchpoint": "ONE Hershey unified commercial operating model",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "7cdde94db6",
+      "url_hash": "498c99b89de7",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "pass",
+        "quote_found": "pass",
+        "fresh": "stale (2026-03-17)"
+      },
+      "match_score": 100.0,
+      "verified_via": "live_fetch",
+      "page_date": "2026-03-17",
+      "effective_date": "2026-03-17",
+      "undated": false,
+      "drop_reason": "stale",
+      "first_seen": null,
+      "is_new": true
+    },
+    {
+      "claim": "Hershey named Amanda Almond President, International, effective 2026-10-12, as part of management changes.",
+      "url": "https://www.marketscreener.com/news/the-hershey-company-announces-management-changes-effective-october-12-2026-ce785ddad88ef124",
+      "quote": "She joins Hershey from Vinarchy, where she served as regional managing director for Europe, the Middle East and Africa, following 12 years in senior regional leadership roles at Bacardi.",
+      "published_date": null,
+      "channel": "company_wide",
+      "touchpoint": "International leadership appointment",
+      "source_type": "news",
+      "uses_qr_or_links": false,
+      "id": "934deac3dc",
+      "url_hash": "dd6568adddb4",
+      "verified": false,
+      "checks": {
+        "source_allowed": "pass",
+        "fetch": "http_403"
+      },
+      "match_score": 0.0,
+      "verified_via": null,
+      "page_date": null,
+      "effective_date": null,
+      "undated": true,
+      "drop_reason": "fetch_failed:http_403",
+      "first_seen": null,
+      "is_new": true
+    }
+  ]
+}
